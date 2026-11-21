@@ -1,0 +1,2859 @@
+{
+  "orders": [
+    {
+      "id": "civil-war-2006-full",
+      "title": "Civil War (2006) - Reading Order with tie-ins",
+      "summary": "All core event issues with all tie-ins, in reading order according to Marvel Unlimited.",
+      "entries": [
+        {
+          "metronId": 17082,
+          "label": "The Amazing Spider-Man (1999) #529",
+          "note": "Tie-In - 2006-02-21 - Start Here"
+        },
+        {
+          "metronId": 17083,
+          "label": "The Amazing Spider-Man (1999) #530",
+          "note": "Tie-In - 2006-03-21"
+        },
+        {
+          "metronId": 17084,
+          "label": "The Amazing Spider-Man (1999) #531",
+          "note": "Tie-In - 2006-04-25"
+        },
+        {
+          "metronId": 20453,
+          "label": "Fantastic Four (1998) #536",
+          "note": "Tie-In - 2006-03-28"
+        },
+        {
+          "metronId": 129317,
+          "label": "The New Avengers: Illuminati (2006) #1 - One-Shot",
+          "note": "Tie-in - 2006-04-18"
+        },
+        {
+          "metronId": 20454,
+          "label": "Fantastic Four (1998) #537",
+          "note": "Tie-in - 2006-04-25"
+        },
+        {
+          "metronId": 131464,
+          "label": "Civil War: Opening Shot Sketchbook (2006) #1",
+          "note": "Tie-in - 2006-04-30"
+        },
+        {
+          "metronId": 3726,
+          "label": "Civil War (2006) #1",
+          "note": "Main Event - 2026-05-02"
+        },
+        {
+          "metronId": 19340,
+          "label": "She-Hulk (2005) #8",
+          "note": "Tie-in - 2006-05-23"
+        },
+        {
+          "metronId": 128219,
+          "label": "Wolverine (2003) #42",
+          "note": "Tie-in - 2006-05-23"
+        },
+        {
+          "metronId": 17085,
+          "label": "The Amazing Spider-Man (1999) #532",
+          "note": "Tie-in - 2006-05-30"
+        },
+        {
+          "metronId": 58062,
+          "label": "Civil War: Front Line (2006) #1",
+          "note": "Tie-in - 2006-06-06"
+        },
+        {
+          "metronId": 3727,
+          "label": "Civil War (2006) #2",
+          "note": "Main Event - 2006-06-13"
+        },
+        {
+          "metronId": 19723,
+          "label": "Thunderbolts (2006) #103",
+          "note": "Tie-in - 2006-06-13"
+        },
+        {
+          "metronId": 58063,
+          "label": "Civil War: Front Line (2006) #2",
+          "note": "Tie-in - 2006-06-27"
+        },
+        {
+          "metronId": 38950,
+          "label": "X-Factor (2006) #8",
+          "note": "Tie-in - 2006-06-27"
+        },
+        {
+          "metronId": 21701,
+          "label": "New Avengers (2005) #21",
+          "note": "Tie-in - 2006-06-27"
+        },
+        {
+          "metronId": 128220,
+          "label": "Wolverine (2003) #43",
+          "note": "Tie-in - 2006-06-27"
+        },
+        {
+          "metronId": 17086,
+          "label": "The Amazing Spider-Man (1999) #533",
+          "note": "Tie-in - 2006-06-27"
+        },
+        {
+          "metronId": 20455,
+          "label": "Fantastic Four (1998) #538",
+          "note": "Tie-in - 2006-06-27"
+        },
+        {
+          "metronId": 58064,
+          "label": "Civil War: Front Line (2006) #3",
+          "note": "Tie-in - 2006-07-11"
+        },
+        {
+          "metronId": 19724,
+          "label": "Thunderbolts (2006) #104",
+          "note": "Tie-in - 2006-07-11"
+        },
+        {
+          "metronId": 39244,
+          "label": "Civil War: X-Men (2006) #1",
+          "note": "Tie-in - 2006-07-18"
+        },
+        {
+          "metronId": 3728,
+          "label": "Civil War (2006) #3",
+          "note": "Main Event - 2006-07-18"
+        },
+        {
+          "metronId": 121799,
+          "label": "Cable & Deadpool (2006) #30",
+          "note": "Tie-in - 2006-07-18"
+        },
+        {
+          "metronId": 73816,
+          "label": "Civil War: Young Avengers & Runaways (2006) #1",
+          "note": "Tie-in - 2006-07-25"
+        },
+        {
+          "metronId": 58065,
+          "label": "Civil War: Front Line (2006) #4",
+          "note": "Tie-in - 2006-07-25"
+        },
+        {
+          "metronId": 38951,
+          "label": "X-Factor (2006) #9",
+          "note": "Tie-in - 2006-07-25"
+        },
+        {
+          "metronId": 21702,
+          "label": "New Avengers (2005) #22",
+          "note": "Tie-in - 2006-07-25"
+        },
+        {
+          "metronId": 128221,
+          "label": "Wolverine (2003) #44",
+          "note": "Tie-in - 2006-07-25"
+        },
+        {
+          "metronId": 17087,
+          "label": "The Amazing Spider-Man (1999) #534",
+          "note": "Tie-in - 2006-07-25"
+        },
+        {
+          "metronId": 20456,
+          "label": "Fantastic Four (1998) #539",
+          "note": "Tie-in - 2006-08-01"
+        },
+        {
+          "metronId": 58066,
+          "label": "Civil War: Front Line (2006) #5",
+          "note": "Tie-in - 2006-08-08"
+        },
+        {
+          "metronId": 33106,
+          "label": "Ms. Marvel (2006) #6",
+          "note": "Tie-in - 2006-08-08"
+        },
+        {
+          "metronId": 39245,
+          "label": "Civil War: X-Men (2006) #2",
+          "note": "Tie-in - 2006-08-15"
+        },
+        {
+          "metronId": 15653,
+          "label": "Heroes for Hire (2006) #1",
+          "note": "Tie-in - 2006-08-22"
+        },
+        {
+          "metronId": 21703,
+          "label": "New Avengers (2005) #23",
+          "note": "Tie-in - 2006-08-22"
+        },
+        {
+          "metronId": 128222,
+          "label": "Wolverine (2003) #45",
+          "note": "Tie-in - 2006-08-22"
+        },
+        {
+          "metronId": 73817,
+          "label": "Civil War: Young Avengers & Runaways (2006) #2",
+          "note": "Tie-in - 2006-08-29"
+        },
+        {
+          "metronId": 121800,
+          "label": "Cable & Deadpool (2006) #31",
+          "note": "Tie-in - 2006-08-29"
+        },
+        {
+          "metronId": 33107,
+          "label": "Ms. Marvel (2006) #7",
+          "note": "Tie-in - 2006-09-12"
+        },
+        {
+          "metronId": 39246,
+          "label": "Civil War: X-Men (2006) #3",
+          "note": "Tie-in - 2006-09-19"
+        },
+        {
+          "metronId": 3729,
+          "label": "Civil War (2006) #4",
+          "note": "Main Event - 2006-09-19"
+        },
+        {
+          "metronId": 128223,
+          "label": "Wolverine (2003) #46",
+          "note": "Tie-in - 2006-09-19"
+        },
+        {
+          "metronId": 15654,
+          "label": "Heroes for Hire (2006) #2",
+          "note": "Tie-in - 2006-09-26"
+        },
+        {
+          "metronId": 73818,
+          "label": "Civil War: Young Avengers & Runaways (2006) #3",
+          "note": "Tie-in - 2006-09-26"
+        },
+        {
+          "metronId": 58067,
+          "label": "Civil War: Front Line (2006) #6",
+          "note": "Tie-in - 2006-09-26"
+        },
+        {
+          "metronId": 20593,
+          "label": "Captain America (2005) #22",
+          "note": "Tie-in - 2006-09-26"
+        },
+        {
+          "metronId": 121801,
+          "label": "Cable & Deadpool (2006) #32",
+          "note": "Tie-in - 2006-09-26"
+        },
+        {
+          "metronId": 17088,
+          "label": "The Amazing Spider-Man (1999) #535",
+          "note": "Tie-in - 2006-09-26"
+        },
+        {
+          "metronId": 20457,
+          "label": "Fantastic Four (1998) #540",
+          "note": "Tie-in - 2006-10-03"
+        },
+        {
+          "metronId": 58068,
+          "label": "Civil War: Front Line (2006) #7",
+          "note": "Tie-in - 2006-10-10"
+        },
+        {
+          "metronId": 39247,
+          "label": "Civil War: X-Men (2006) #4",
+          "note": "Tie-in - 2006-10-17"
+        },
+        {
+          "metronId": 33108,
+          "label": "Ms. Marvel (2006) #8",
+          "note": "Tie-in - 2006-10-17"
+        },
+        {
+          "metronId": 128224,
+          "label": "Wolverine (2003) #47",
+          "note": "Tie-in - 2006-10-17"
+        },
+        {
+          "metronId": 15655,
+          "label": "Heroes for Hire (2006) #3",
+          "note": "Tie-in - 2006-10-24"
+        },
+        {
+          "metronId": 20594,
+          "label": "Captain America (2005) #23",
+          "note": "Tie-in - 2006-10-24"
+        },
+        {
+          "metronId": 21704,
+          "label": "New Avengers (2005) #24",
+          "note": "Tie-in - 2006-10-24"
+        },
+        {
+          "metronId": 129187,
+          "label": "Civil War: Choosing Sides (2006) #1",
+          "note": "Tie-in - 2006-10-24"
+        },
+        {
+          "metronId": 3730,
+          "label": "Civil War (2006) #5",
+          "note": "Main Event - 2006-11-14"
+        },
+        {
+          "metronId": 73815,
+          "label": "Civil War: Young Avengers & Runaways (2006) #4",
+          "note": "Tie-in - 2006-11-07"
+        },
+        {
+          "metronId": 23215,
+          "label": "Iron Man (2005) #13",
+          "note": "Tie-in - 2006-11-14"
+        },
+        {
+          "metronId": 21705,
+          "label": "New Avengers (2005) #25",
+          "note": "Tie-in - 2006-11-14"
+        },
+        {
+          "metronId": 59834,
+          "label": "Punisher War Journal (2007) #1",
+          "note": "Tie-in - 2006-11-21"
+        },
+        {
+          "metronId": 58069,
+          "label": "Civil War: Front Line (2006) #8",
+          "note": "Tie-in - 2006-11-21"
+        },
+        {
+          "metronId": 17089,
+          "label": "The Amazing Spider-Man (1999) #536",
+          "note": "Tie-in - 2006-11-21"
+        },
+        {
+          "metronId": 26471,
+          "label": "Black Panther (2005) #22",
+          "note": "Tie-in - 2006-11-28"
+        },
+        {
+          "metronId": 20595,
+          "label": "Captain America (2005) #24",
+          "note": "Tie-in - 2006-12-19"
+        },
+        {
+          "metronId": 26472,
+          "label": "Civil War: Front Line (2006) #9",
+          "note": "Tie-in - 2006-12-19"
+        },
+        {
+          "metronId": 23216,
+          "label": "Iron Man (2005) #14",
+          "note": "Tie-in - 2006-12-19"
+        },
+        {
+          "metronId": 20458,
+          "label": "Fantastic Four (1998) #541",
+          "note": "Tie-in - 2006-12-19"
+        },
+        {
+          "metronId": 26473,
+          "label": "Black Panther (2005) #23",
+          "note": "Tie-in - 2006-12-26"
+        },
+        {
+          "metronId": 59835,
+          "label": "Punisher War Journal (2007) #2",
+          "note": "Tie-in - 2007-01-02"
+        },
+        {
+          "metronId": 3731,
+          "label": "Civil War (2006) #6",
+          "note": "Main Event - 2007-01-02"
+        },
+        {
+          "metronId": 58071,
+          "label": "Civil War: Front Line (2006) #10",
+          "note": "Tie-in - 2007-01-02"
+        },
+        {
+          "metronId": 17090,
+          "label": "The Amazing Spider-Man (1999) #537",
+          "note": "Tie-in - 2007-01-02"
+        },
+        {
+          "metronId": 20459,
+          "label": "Fantastic Four (1998) #542",
+          "note": "Tie-in - 2007-01-16"
+        },
+        {
+          "metronId": 59836,
+          "label": "Punisher War Journal (2007) #3",
+          "note": "Tie-in - 2007-01-23"
+        },
+        {
+          "metronId": 26473,
+          "label": "Black Panther (2005) #24",
+          "note": "Tie-in - 2007-01-30"
+        },
+        {
+          "metronId": 3732,
+          "label": "Civil War (2006) #7",
+          "note": "Main Event - 2007-02-20 - Finale"
+        },
+        {
+          "metronId": 17091,
+          "label": "The Amazing Spider-Man (1999) #538",
+          "note": "Tie-in - 2007-02-20"
+        },
+        {
+          "metronId": 58072,
+          "label": "Civil War: Front Line (2006) #11",
+          "note": "Tie-in - 2007-02-27"
+        },
+        {
+          "metronId": 26474,
+          "label": "Black Panther (2005) #25",
+          "note": "Tie-in - 2007-02-27"
+        },
+        {
+          "metronId": 23216,
+          "label": "Iron Man: Director of S.H.I.E.L.D (2008) #15",
+          "note": "Tie-in - 2007-03-31"
+        },
+        {
+          "metronId": 20596,
+          "label": "Captain America (2005) #25",
+          "note": "Tie-in - 2007-03-20"
+        },
+        {
+          "metronId": 20596,
+          "label": "Fallen Son: The Death of Captain America (2007) #1",
+          "note": "Tie-in - 2007-04-03"
+        },
+        {
+          "metronId": 20596,
+          "label": "Fallen Son: The Death of Captain America (2007) #2",
+          "note": "Tie-in - 2007-04-24"
+        },
+        {
+          "metronId": 20596,
+          "label": "Fallen Son: The Death of Captain America (2007) #3",
+          "note": "Tie-in - 2007-05-15"
+        },
+        {
+          "metronId": 20596,
+          "label": "Fallen Son: The Death of Captain America (2007) #4",
+          "note": "Tie-in - 2007-06-19"
+        },
+        {
+          "metronId": 20596,
+          "label": "Fallen Son: The Death of Captain America (2007) #5",
+          "note": "Tie-in - 2007-07-03"
+        },
+        {
+          "metronId": 20459,
+          "label": "Fantastic Four (1998) #543",
+          "note": "Tie-in - 2007-03-06"
+        },
+        {
+          "metronId": 20459,
+          "label": "Fantastic Four (1998) #544",
+          "note": "Tie-in - 2007-03-27"
+        },
+        {
+          "metronId": 69624,
+          "label": "Civil War: The Initiative (2007) #1",
+          "note": "Tie-in - 2007-04-03"
+        }
+      ],
+      "category": "event"
+    },
+    {
+      "id": "civil-war-2006",
+      "title": "Civil War (2006)",
+      "summary": "All core event issues.",
+      "entries": [
+        {
+          "metronId": 3726,
+          "label": "Civil War #1",
+          "note": "2006-07-01 - Start Here"
+        },
+        {
+          "metronId": 3727,
+          "label": "Civil War #2",
+          "note": "2006-08-01"
+        },
+        {
+          "metronId": 3728,
+          "label": "Civil War #3",
+          "note": "2006-09-01"
+        },
+        {
+          "metronId": 3729,
+          "label": "Civil War #4",
+          "note": "2006-10-01"
+        },
+        {
+          "metronId": 3730,
+          "label": "Civil War #5",
+          "note": "2006-11-01"
+        },
+        {
+          "metronId": 3731,
+          "label": "Civil War #6",
+          "note": "2006-12-01"
+        },
+        {
+          "metronId": 3732,
+          "label": "Civil War #7",
+          "note": "2007-01-01 - Finale"
+        }
+      ],
+      "category": "event"
+    },
+    {
+      "id": "kinginblack-2021",
+      "title": "King in Black (2021)",
+      "category": "events",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 19777,
+          "label": "King in Black (2021) #1",
+          "note": "In stores 2020-12-02"
+        },
+        {
+          "metronId": 21227,
+          "label": "King in Black (2021) #2",
+          "note": "In stores 2020-12-23"
+        },
+        {
+          "metronId": 23181,
+          "label": "King in Black (2021) #3",
+          "note": "In stores 2021-01-20"
+        },
+        {
+          "metronId": 25228,
+          "label": "King in Black (2021) #4",
+          "note": "In stores 2021-02-17"
+        },
+        {
+          "metronId": 28325,
+          "label": "King in Black (2021) #5",
+          "note": "In stores 2021-04-07"
+        }
+      ]
+    },
+    {
+      "id": "blackknight-2021",
+      "title": "Black Knight: Curse of the Ebony Blade (2021)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 26994,
+          "label": "Black Knight: Curse of the Ebony Blade (2021) #1",
+          "note": "In stores 2021-03-17"
+        },
+        {
+          "metronId": 29240,
+          "label": "Black Knight: Curse of the Ebony Blade (2021) #2",
+          "note": "In stores 2021-04-21"
+        },
+        {
+          "metronId": 30665,
+          "label": "Black Knight: Curse of the Ebony Blade (2021) #3",
+          "note": "In stores 2021-05-19"
+        },
+        {
+          "metronId": 32843,
+          "label": "Black Knight: Curse of the Ebony Blade (2021) #4",
+          "note": "In stores 2021-06-30"
+        },
+        {
+          "metronId": 34954,
+          "label": "Black Knight: Curse of the Ebony Blade (2021) #5",
+          "note": "In stores 2021-07-28"
+        }
+      ]
+    },
+    {
+      "id": "blackpanther-2026",
+      "title": "Black Panther: Intergalactic (2026)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 158204,
+          "label": "Black Panther: Intergalactic (2026) #1",
+          "note": "In stores 2025-12-17"
+        },
+        {
+          "metronId": 159722,
+          "label": "Black Panther: Intergalactic (2026) #2",
+          "note": "In stores 2026-01-21"
+        },
+        {
+          "metronId": 162630,
+          "label": "Black Panther: Intergalactic (2026) #3",
+          "note": "In stores 2026-02-25"
+        },
+        {
+          "metronId": 163098,
+          "label": "Black Panther: Intergalactic (2026) #4",
+          "note": "In stores 2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "blackwidow-2024",
+      "title": "Black Widow & Hawkeye (2024)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 113756,
+          "label": "Black Widow & Hawkeye (2024) #1",
+          "note": "In stores 2024-03-13"
+        },
+        {
+          "metronId": 115880,
+          "label": "Black Widow & Hawkeye (2024) #2",
+          "note": "In stores 2024-04-17"
+        },
+        {
+          "metronId": 118712,
+          "label": "Black Widow & Hawkeye (2024) #3",
+          "note": "In stores 2024-05-22"
+        },
+        {
+          "metronId": 123326,
+          "label": "Black Widow & Hawkeye (2024) #4",
+          "note": "In stores 2024-06-26"
+        }
+      ]
+    },
+    {
+      "id": "cylcops-2026",
+      "title": "Cyclops (2026)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 161510,
+          "label": "Cyclops (2026) #1",
+          "note": "In stores 2026-02-11"
+        },
+        {
+          "metronId": 163100,
+          "label": "Cyclops (2026) #2",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 164383,
+          "label": "Cyclops (2026) #3",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 166254,
+          "label": "Cyclops (2026) #4",
+          "note": "In stores 2026-05-06"
+        },
+        {
+          "metronId": 170466,
+          "label": "Cyclops (2026) #5",
+          "note": "In stores 2026-06-03"
+        }
+      ]
+    },
+    {
+      "id": "gambit-2026",
+      "title": "Gambit (2026)",
+      "category": "limited",
+      "summary": "Limited Series Gambit (2026).",
+      "entries": [
+        {
+          "metronId": 172490,
+          "label": "Gambit: Wanted (2026) #1",
+          "note": "In stores 2026-07-22"
+        },
+        {
+          "metronId": 174326,
+          "label": "Gambit: Wanted (2026) #2",
+          "note": "In stores 2026-08-26"
+        },
+        {
+          "metronId": 174656,
+          "label": "Gambit: Wanted (2026) #3",
+          "note": "In stores 2026-09-30"
+        },
+        {
+          "metronId": 181867,
+          "label": "Gambit: Wanted (2026) #4",
+          "note": "In stores 2026-11-18"
+        },
+        {
+          "metronId": 174450,
+          "label": "Gambit Gone (2026) #1",
+          "note": "In stores 2026-09-23"
+        },
+        {
+          "metronId": 183008,
+          "label": "Gambit Gone (2026) #2",
+          "note": "In stores 2026-10-28"
+        },
+        {
+          "metronId": 185792,
+          "label": "Gambit Gone (2026) #3",
+          "note": "In stores 2026-11-25"
+        },
+        {
+          "metronId": 187657,
+          "label": "Gambit Gone (2026) #4",
+          "note": "In stores 2026-12-09"
+        },
+        {
+          "metronId": 189463,
+          "label": "Gambit: Wanted (2026) #5",
+          "note": "In stores 2027-01-20"
+        }
+      ],
+      "catergory": "Limited Series"
+    },
+    {
+      "id": "rogue-2026",
+      "title": "Rogue (2026)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 159732,
+          "label": "Rogue (2026) #1",
+          "note": "In stores 2026-01-21"
+        },
+        {
+          "metronId": 162640,
+          "label": "Rogue (2026) #2",
+          "note": "In stores 2026-02-25"
+        },
+        {
+          "metronId": 163488,
+          "label": "Rogue (2026) #3",
+          "note": "In stores 2026-03-25"
+        },
+        {
+          "metronId": 164388,
+          "label": "Rogue (2026) #4",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 169728,
+          "label": "Rogue (2026) #5",
+          "note": "In stores 2026-05-20"
+        }
+      ]
+    },
+    {
+      "id": "storm-2026",
+      "title": "Storm: Earth's Mightiest Mutant (2026)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 161154,
+          "label": "Storm: Earth's Mightiest Mutant (2026) #1",
+          "note": "In stores 2026-02-04"
+        },
+        {
+          "metronId": 163026,
+          "label": "Storm: Earth's Mightiest Mutant (2026) #2",
+          "note": "In stores 2026-03-11"
+        },
+        {
+          "metronId": 164285,
+          "label": "Storm: Earth's Mightiest Mutant (2026) #3",
+          "note": "In stores 2026-04-15"
+        },
+        {
+          "metronId": 166261,
+          "label": "Storm: Earth's Mightiest Mutant (2026) #4",
+          "note": "In stores 2026-05-06"
+        },
+        {
+          "metronId": 170488,
+          "label": "Storm: Earth's Mightiest Mutant (2026) #5",
+          "note": "In stores 2026-06-03"
+        }
+      ]
+    },
+    {
+      "id": "xmen-2023",
+      "title": "Immoral X-Men (2023)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 55019,
+          "label": "Immoral X-Men (2023) #1",
+          "note": "In stores 2023-02-22"
+        },
+        {
+          "metronId": 57315,
+          "label": "Immoral X-Men (2023) #2",
+          "note": "In stores 2023-03-15"
+        },
+        {
+          "metronId": 59627,
+          "label": "Immoral X-Men (2023) #3",
+          "note": "In stores 2023-04-05"
+        }
+      ]
+    },
+    {
+      "id": "blackwidowv-2024",
+      "title": "Black Widow: Venomous (2024)",
+      "category": "oneShot",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 125567,
+          "label": "Black Widow: Venomous (2024) #1",
+          "note": "In stores 2024-07-31"
+        }
+      ]
+    },
+    {
+      "id": "avengers-2023",
+      "title": "The Avengers (2023)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 63132,
+          "label": "The Avengers (2023) #1",
+          "note": "In stores 2023-05-17"
+        },
+        {
+          "metronId": 66677,
+          "label": "The Avengers (2023) #2",
+          "note": "In stores 2023-06-21"
+        },
+        {
+          "metronId": 71015,
+          "label": "The Avengers (2023) #3",
+          "note": "In stores 2023-07-26"
+        },
+        {
+          "metronId": 72314,
+          "label": "The Avengers (2023) #4",
+          "note": "In stores 2023-08-09"
+        },
+        {
+          "metronId": 75468,
+          "label": "The Avengers (2023) #5",
+          "note": "In stores 2023-09-27"
+        },
+        {
+          "metronId": 76624,
+          "label": "The Avengers (2023) #6",
+          "note": "In stores 2023-10-11"
+        },
+        {
+          "metronId": 77324,
+          "label": "The Avengers (2023) #7",
+          "note": "In stores 2023-11-01"
+        },
+        {
+          "metronId": 88808,
+          "label": "The Avengers (2023) #8",
+          "note": "In stores 2023-12-06"
+        },
+        {
+          "metronId": 101060,
+          "label": "The Avengers (2023) #9",
+          "note": "In stores 2024-01-10"
+        },
+        {
+          "metronId": 107227,
+          "label": "The Avengers (2023) #10",
+          "note": "In stores 2024-02-07"
+        },
+        {
+          "metronId": 111920,
+          "label": "The Avengers (2023) #11",
+          "note": "In stores 2024-03-06"
+        },
+        {
+          "metronId": 115057,
+          "label": "The Avengers (2023) #12",
+          "note": "In stores 2024-04-03"
+        },
+        {
+          "metronId": 115895,
+          "label": "The Avengers (2023) #13",
+          "note": "In stores 2024-04-24"
+        },
+        {
+          "metronId": 117782,
+          "label": "The Avengers (2023) #14",
+          "note": "In stores 2024-05-08"
+        },
+        {
+          "metronId": 120445,
+          "label": "The Avengers (2023) #15",
+          "note": "In stores 2024-06-12"
+        },
+        {
+          "metronId": 123426,
+          "label": "The Avengers (2023) #16",
+          "note": "In stores 2024-07-10"
+        },
+        {
+          "metronId": 125587,
+          "label": "The Avengers (2023) #17",
+          "note": "In stores 2024-08-07"
+        },
+        {
+          "metronId": 127631,
+          "label": "The Avengers (2023) #18",
+          "note": "In stores 2024-09-18"
+        },
+        {
+          "metronId": 129477,
+          "label": "The Avengers (2023) #19",
+          "note": "In stores 2024-10-23"
+        },
+        {
+          "metronId": 130342,
+          "label": "The Avengers (2023) #20",
+          "note": "In stores 2024-11-06"
+        },
+        {
+          "metronId": 132483,
+          "label": "The Avengers (2023) #21",
+          "note": "In stores 2024-12-04"
+        },
+        {
+          "metronId": 133089,
+          "label": "The Avengers (2023) #22",
+          "note": "In stores 2025-01-01"
+        },
+        {
+          "metronId": 134368,
+          "label": "The Avengers (2023) #23",
+          "note": "In stores 2025-02-05"
+        },
+        {
+          "metronId": 137609,
+          "label": "The Avengers (2023) #24",
+          "note": "In stores 2025-03-19"
+        },
+        {
+          "metronId": 142572,
+          "label": "The Avengers (2023) #25",
+          "note": "In stores 2025-04-23"
+        },
+        {
+          "metronId": 146762,
+          "label": "The Avengers (2023) #26",
+          "note": "In stores 2025-05-28"
+        },
+        {
+          "metronId": 148395,
+          "label": "The Avengers (2023) #27",
+          "note": "In stores 2025-06-18"
+        },
+        {
+          "metronId": 149081,
+          "label": "The Avengers (2023) #28",
+          "note": "In stores 2025-07-02"
+        },
+        {
+          "metronId": 151145,
+          "label": "The Avengers (2023) #29",
+          "note": "In stores 2025-08-27"
+        },
+        {
+          "metronId": 151945,
+          "label": "The Avengers (2023) #30",
+          "note": "In stores 2025-09-03"
+        },
+        {
+          "metronId": 155592,
+          "label": "The Avengers (2023) #31",
+          "note": "In stores 2025-10-08"
+        },
+        {
+          "metronId": 156564,
+          "label": "The Avengers (2023) #32",
+          "note": "In stores 2025-11-05"
+        },
+        {
+          "metronId": 158201,
+          "label": "The Avengers (2023) #33",
+          "note": "In stores 2025-12-17"
+        },
+        {
+          "metronId": 159058,
+          "label": "The Avengers (2023) #34",
+          "note": "In stores 2026-01-14"
+        },
+        {
+          "metronId": 161147,
+          "label": "The Avengers (2023) #35",
+          "note": "In stores 2026-02-04"
+        },
+        {
+          "metronId": 162909,
+          "label": "The Avengers (2023) #36",
+          "note": "In stores 2026-03-04"
+        }
+      ]
+    },
+    {
+      "id": "avengers-2027",
+      "title": "Avengers (2027)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 183476,
+          "label": "Avengers (2027) #1",
+          "note": "In stores 2026-11-04"
+        },
+        {
+          "metronId": 187765,
+          "label": "Avengers (2027) #2",
+          "note": "In stores 2026-12-16"
+        }
+      ]
+    },
+    {
+      "id": "blackwidow-2020",
+      "title": "Black Widow (2020)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 16673,
+          "label": "Black Widow (2020) #1",
+          "note": "In stores 2020-09-02"
+        },
+        {
+          "metronId": 17421,
+          "label": "Black Widow (2020) #2",
+          "note": "In stores 2020-10-07"
+        },
+        {
+          "metronId": 18326,
+          "label": "Black Widow (2020) #3",
+          "note": "In stores 2020-11-04"
+        },
+        {
+          "metronId": 19482,
+          "label": "Black Widow (2020) #4",
+          "note": "In stores 2020-12-02"
+        },
+        {
+          "metronId": 25221,
+          "label": "Black Widow (2020) #5",
+          "note": "In stores 2021-02-17"
+        },
+        {
+          "metronId": 29618,
+          "label": "Black Widow (2020) #6",
+          "note": "In stores 2021-04-28"
+        },
+        {
+          "metronId": 31073,
+          "label": "Black Widow (2020) #7",
+          "note": "In stores 2021-05-26"
+        },
+        {
+          "metronId": 32844,
+          "label": "Black Widow (2020) #8",
+          "note": "In stores 2021-06-30"
+        },
+        {
+          "metronId": 34955,
+          "label": "Black Widow (2020) #9",
+          "note": "In stores 2021-07-28"
+        },
+        {
+          "metronId": 36806,
+          "label": "Black Widow (2020) #10",
+          "note": "In stores 2021-08-25"
+        },
+        {
+          "metronId": 37867,
+          "label": "Black Widow (2020) #11",
+          "note": "In stores 2021-09-15"
+        },
+        {
+          "metronId": 39702,
+          "label": "Black Widow (2020) #12",
+          "note": "In stores 2021-10-27"
+        },
+        {
+          "metronId": 42144,
+          "label": "Black Widow (2020) #13",
+          "note": "In stores 2022-01-05"
+        },
+        {
+          "metronId": 43535,
+          "label": "Black Widow (2020) #14",
+          "note": "In stores 2022-02-23"
+        },
+        {
+          "metronId": 44464,
+          "label": "Black Widow (2020) #15",
+          "note": "In stores 2022-04-06"
+        }
+      ]
+    },
+    {
+      "id": "captainamerica-2025",
+      "title": "Captain America (2025)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 149085,
+          "label": "Captain America (2025) #1",
+          "note": "In stores 2025-07-02"
+        },
+        {
+          "metronId": 150755,
+          "label": "Captain America (2025) #2",
+          "note": "In stores 2025-08-06"
+        },
+        {
+          "metronId": 152750,
+          "label": "Captain America (2025) #3",
+          "note": "In stores 2025-09-10"
+        },
+        {
+          "metronId": 155709,
+          "label": "Captain America (2025) #4",
+          "note": "In stores 2025-10-15"
+        },
+        {
+          "metronId": 156891,
+          "label": "Captain America (2025) #5",
+          "note": "In stores 2025-11-19"
+        },
+        {
+          "metronId": 159723,
+          "label": "Captain America (2025) #6",
+          "note": "In stores 2026-01-21"
+        },
+        {
+          "metronId": 162200,
+          "label": "Captain America (2025) #7",
+          "note": "In stores 2026-02-18"
+        },
+        {
+          "metronId": 163099,
+          "label": "Captain America (2025) #8",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 164382,
+          "label": "Captain America (2025) #9",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 164394,
+          "label": "Captain America (2025) #10",
+          "note": "In stores 2026-04-29"
+        },
+        {
+          "metronId": 169059,
+          "label": "Captain America (2025) #11",
+          "note": "In stores 2026-05-13"
+        },
+        {
+          "metronId": 171351,
+          "label": "Captain America (2025) #12",
+          "note": "In stores 2026-06-24"
+        },
+        {
+          "metronId": 172099,
+          "label": "Captain America (2025) #13",
+          "note": "In stores 2026-07-15"
+        },
+        {
+          "metronId": 172889,
+          "label": "Captain America (2025) #14",
+          "note": "In stores 2026-08-05"
+        },
+        {
+          "metronId": 174338,
+          "label": "Captain America (2025) #15",
+          "note": "In stores 2026-09-02"
+        },
+        {
+          "metronId": 183005,
+          "label": "Captain America (2025) #16",
+          "note": "In stores 2026-10-28"
+        },
+        {
+          "metronId": 185198,
+          "label": "Captain America (2025) #17",
+          "note": "In stores 2026-11-11"
+        },
+        {
+          "metronId": 187656,
+          "label": "Captain America (2025) #18",
+          "note": "In stores 2026-12-09"
+        },
+        {
+          "metronId": 189253,
+          "label": "Captain America (2025) #19",
+          "note": "In stores 2027-01-06"
+        }
+      ]
+    },
+    {
+      "id": "captainmarvel-2023",
+      "title": "Captain Marvel (2023)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 77310,
+          "label": "Captain Marvel (2023) #1",
+          "note": "In stores 2023-10-25"
+        },
+        {
+          "metronId": 86417,
+          "label": "Captain Marvel (2023) #2",
+          "note": "In stores 2023-11-22"
+        },
+        {
+          "metronId": 93138,
+          "label": "Captain Marvel (2023) #3",
+          "note": "In stores 2023-12-27"
+        },
+        {
+          "metronId": 101062,
+          "label": "Captain Marvel (2023) #4",
+          "note": "In stores 2024-01-10"
+        },
+        {
+          "metronId": 110030,
+          "label": "Captain Marvel (2023) #5",
+          "note": "In stores 2024-02-21"
+        },
+        {
+          "metronId": 114791,
+          "label": "Captain Marvel (2023) #6",
+          "note": "In stores 2024-03-20"
+        },
+        {
+          "metronId": 115881,
+          "label": "Captain Marvel (2023) #7",
+          "note": "In stores 2024-04-17"
+        },
+        {
+          "metronId": 118019,
+          "label": "Captain Marvel (2023) #8",
+          "note": "In stores 2024-05-08"
+        },
+        {
+          "metronId": 122309,
+          "label": "Captain Marvel (2023) #9",
+          "note": "In stores 2024-06-19"
+        },
+        {
+          "metronId": 125568,
+          "label": "Captain Marvel (2023) #10",
+          "note": "In stores 2024-07-31"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-2023",
+      "title": "Daredevil (2023)",
+      "category": "ongoing",
+      "summary": "Ongoing Series Daredevil (2023).",
+      "entries": [
+        {
+          "metronId": 74417,
+          "label": "Daredevil (2023) #1",
+          "note": "In stores 2023-09-13"
+        },
+        {
+          "metronId": 76643,
+          "label": "Daredevil (2023) #2",
+          "note": "In stores 2023-10-18"
+        },
+        {
+          "metronId": 83125,
+          "label": "Daredevil (2023) #3",
+          "note": "In stores 2023-11-15"
+        },
+        {
+          "metronId": 88809,
+          "label": "Daredevil (2023) #4",
+          "note": "In stores 2023-12-06"
+        },
+        {
+          "metronId": 104094,
+          "label": "Daredevil (2023) #5",
+          "note": "In stores 2024-01-17"
+        },
+        {
+          "metronId": 110031,
+          "label": "Daredevil (2023) #6",
+          "note": "In stores 2024-02-21"
+        },
+        {
+          "metronId": 114797,
+          "label": "Daredevil (2023) #7",
+          "note": "In stores 2024-03-27"
+        },
+        {
+          "metronId": 115897,
+          "label": "Daredevil (2023) #8",
+          "note": "In stores 2024-04-24"
+        },
+        {
+          "metronId": 117785,
+          "label": "Daredevil (2023) #9",
+          "note": "In stores 2024-05-08"
+        },
+        {
+          "metronId": 123329,
+          "label": "Daredevil (2023) #10",
+          "note": "In stores 2024-06-26"
+        },
+        {
+          "metronId": 123427,
+          "label": "Daredevil (2023) #11",
+          "note": "In stores 2024-07-10"
+        },
+        {
+          "metronId": 125589,
+          "label": "Daredevil (2023) #12",
+          "note": "In stores 2024-08-07"
+        },
+        {
+          "metronId": 126783,
+          "label": "Daredevil (2023) #13",
+          "note": "In stores 2024-09-04"
+        },
+        {
+          "metronId": 128172,
+          "label": "Daredevil (2023) #14",
+          "note": "In stores 2024-10-02"
+        },
+        {
+          "metronId": 131583,
+          "label": "Daredevil (2023) #15",
+          "note": "In stores 2024-11-20"
+        },
+        {
+          "metronId": 132683,
+          "label": "Daredevil (2023) #16",
+          "note": "In stores 2024-12-18"
+        },
+        {
+          "metronId": 133091,
+          "label": "Daredevil (2023) #17",
+          "note": "In stores 2025-01-01"
+        },
+        {
+          "metronId": 135280,
+          "label": "Daredevil (2023) #18",
+          "note": "In stores 2025-02-19"
+        },
+        {
+          "metronId": 138708,
+          "label": "Daredevil (2023) #19",
+          "note": "In stores 2025-03-26"
+        },
+        {
+          "metronId": 140617,
+          "label": "Daredevil (2023) #20",
+          "note": "In stores 2025-04-09"
+        },
+        {
+          "metronId": 144581,
+          "label": "Daredevil (2023) #21",
+          "note": "In stores 2025-05-14"
+        },
+        {
+          "metronId": 147908,
+          "label": "Daredevil (2023) #22",
+          "note": "In stores 2025-06-04"
+        },
+        {
+          "metronId": 149088,
+          "label": "Daredevil (2023) #23",
+          "note": "In stores 2025-07-02"
+        },
+        {
+          "metronId": 150981,
+          "label": "Daredevil (2023) #24",
+          "note": "In stores 2025-08-13"
+        },
+        {
+          "metronId": 153824,
+          "label": "Daredevil (2023) #25",
+          "note": "In stores 2025-09-24"
+        }
+      ]
+    },
+    {
+      "id": "daredevil-2026",
+      "title": "Daredevil (2026)",
+      "summary": "Ongoing series Daredevil (2026).",
+      "entries": [
+        {
+          "metronId": 163083,
+          "label": "Daredevil (2026) #1",
+          "note": "In stores 2026-04-01"
+        },
+        {
+          "metronId": 166255,
+          "label": "Daredevil (2026) #2",
+          "note": "In stores 2026-05-06"
+        },
+        {
+          "metronId": 170871,
+          "label": "Daredevil (2026) #3",
+          "note": "In stores 2026-06-10"
+        },
+        {
+          "metronId": 171811,
+          "label": "Daredevil (2026) #4",
+          "note": "In stores 2026-07-08"
+        },
+        {
+          "metronId": 173905,
+          "label": "Daredevil (2026) #5",
+          "note": "In stores 2026-08-19"
+        },
+        {
+          "metronId": 174339,
+          "label": "Daredevil (2026) #6",
+          "note": "In stores 2026-09-02"
+        },
+        {
+          "metronId": 174387,
+          "label": "Daredevil (2026) #7",
+          "note": "In stores 2026-09-16"
+        },
+        {
+          "metronId": 183006,
+          "label": "Daredevil (2026) #8",
+          "note": "In stores 2026-10-28"
+        },
+        {
+          "metronId": 185200,
+          "label": "Daredevil (2026) #9",
+          "note": "In stores 2026-11-11"
+        },
+        {
+          "metronId": 187910,
+          "label": "Daredevil (2026) #10",
+          "note": "In stores 2026-12-23"
+        },
+        {
+          "metronId": 189382,
+          "label": "Daredevil (2026) #11",
+          "note": "In stores 2027-01-13"
+        }
+      ],
+      "category": "ongoing"
+    },
+    {
+      "id": "deadpool-2026",
+      "title": "Wade Wilson: Deadpool (2026)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 161517,
+          "label": "Wade Wilson: Deadpool (2026) #1",
+          "note": "In stores 2026-02-11"
+        },
+        {
+          "metronId": 163109,
+          "label": "Wade Wilson: Deadpool (2026) #2",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 164392,
+          "label": "Wade Wilson: Deadpool (2026) #3",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 166262,
+          "label": "Wade Wilson: Deadpool (2026) #4",
+          "note": "In stores 2026-05-06"
+        },
+        {
+          "metronId": 170490,
+          "label": "Wade Wilson: Deadpool (2026) #5",
+          "note": "In stores 2026-06-03"
+        },
+        {
+          "metronId": 171373,
+          "label": "Wade Wilson: Deadpool (2026) #6",
+          "note": "In stores 2026-07-01"
+        },
+        {
+          "metronId": 172909,
+          "label": "Wade Wilson: Deadpool (2026) #7",
+          "note": "In stores 2026-08-05"
+        },
+        {
+          "metronId": 174348,
+          "label": "Wade Wilson: Deadpool (2026) #8",
+          "note": "In stores 2026-09-02"
+        },
+        {
+          "metronId": 181810,
+          "label": "Wade Wilson: Deadpool (2026) #9",
+          "note": "In stores 2026-10-14"
+        },
+        {
+          "metronId": 185211,
+          "label": "Wade Wilson: Deadpool (2026) #10",
+          "note": "In stores 2026-11-11"
+        },
+        {
+          "metronId": 187663,
+          "label": "Wade Wilson: Deadpool (2026) #11",
+          "note": "In stores 2026-12-09"
+        },
+        {
+          "metronId": 189397,
+          "label": "Wade Wilson: Deadpool (2026) #12",
+          "note": "In stores 2027-01-13"
+        }
+      ]
+    },
+    {
+      "id": "exmen-2023",
+      "title": "Exceptional X-Men (2023)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 126784,
+          "label": "Exceptional X-Men (2024) #1",
+          "note": "In stores 2024-09-04"
+        },
+        {
+          "metronId": 128821,
+          "label": "Exceptional X-Men (2024) #2",
+          "note": "In stores 2024-10-09"
+        },
+        {
+          "metronId": 131584,
+          "label": "Exceptional X-Men (2024) #3",
+          "note": "In stores 2024-11-20"
+        },
+        {
+          "metronId": 133075,
+          "label": "Exceptional X-Men (2024) #4",
+          "note": "In stores 2024-12-25"
+        },
+        {
+          "metronId": 133373,
+          "label": "Exceptional X-Men (2024) #5",
+          "note": "In stores 2025-01-15"
+        },
+        {
+          "metronId": 135283,
+          "label": "Exceptional X-Men (2024) #6",
+          "note": "In stores 2025-02-19"
+        },
+        {
+          "metronId": 137614,
+          "label": "Exceptional X-Men (2024) #7",
+          "note": "In stores 2025-03-19"
+        },
+        {
+          "metronId": 141987,
+          "label": "Exceptional X-Men (2024) #8",
+          "note": "In stores 2025-04-16"
+        },
+        {
+          "metronId": 145410,
+          "label": "Exceptional X-Men (2024) #9",
+          "note": "In stores 2025-05-21"
+        },
+        {
+          "metronId": 147929,
+          "label": "Exceptional X-Men (2024) #10",
+          "note": "In stores 2025-06-11"
+        },
+        {
+          "metronId": 149119,
+          "label": "Exceptional X-Men (2024) #11",
+          "note": "In stores 2025-07-16"
+        },
+        {
+          "metronId": 151133,
+          "label": "Exceptional X-Men (2024) #12",
+          "note": "In stores 2025-08-20"
+        },
+        {
+          "metronId": 152753,
+          "label": "Exceptional X-Men (2024) #13",
+          "note": "In stores 2025-09-10"
+        }
+      ]
+    },
+    {
+      "id": "infernalhulk-2026",
+      "title": "Infernal Hulk (2026)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 157200,
+          "label": "The Infernal Hulk (2026) #1",
+          "note": "In stores 2025-11-26"
+        },
+        {
+          "metronId": 157726,
+          "label": "The Infernal Hulk (2026) #2",
+          "note": "In stores 2025-12-10"
+        },
+        {
+          "metronId": 160474,
+          "label": "The Infernal Hulk (2026) #3",
+          "note": "In stores 2026-01-28"
+        },
+        {
+          "metronId": 162633,
+          "label": "The Infernal Hulk (2026) #4",
+          "note": "In stores 2026-02-25"
+        },
+        {
+          "metronId": 163101,
+          "label": "The Infernal Hulk (2026) #5",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 164385,
+          "label": "The Infernal Hulk (2026) #6",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 170142,
+          "label": "The Infernal Hulk (2026) #7",
+          "note": "In stores 2026-05-27"
+        },
+        {
+          "metronId": 171354,
+          "label": "The Infernal Hulk (2026) #8",
+          "note": "In stores 2026-06-24"
+        },
+        {
+          "metronId": 172101,
+          "label": "The Infernal Hulk (2026) #9",
+          "note": "In stores 2026-07-15"
+        },
+        {
+          "metronId": 173160,
+          "label": "The Infernal Hulk (2026) #10",
+          "note": "In stores 2026-08-12"
+        }
+      ]
+    },
+    {
+      "id": "ironman-2026",
+      "title": "Iron Man (2026)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 160475,
+          "label": "Iron Man (2026) #1",
+          "note": "In stores 2026-01-28"
+        },
+        {
+          "metronId": 162635,
+          "label": "Iron Man (2026) #2",
+          "note": "In stores 2026-02-25"
+        },
+        {
+          "metronId": 163481,
+          "label": "Iron Man (2026) #3",
+          "note": "In stores 2026-03-25"
+        },
+        {
+          "metronId": 163872,
+          "label": "Iron Man (2026) #4",
+          "note": "In stores 2026-04-08"
+        },
+        {
+          "metronId": 169061,
+          "label": "Iron Man (2026) #5",
+          "note": "In stores 2026-05-13"
+        },
+        {
+          "metronId": 170470,
+          "label": "Iron Man (2026) #6",
+          "note": "In stores 2026-06-03"
+        },
+        {
+          "metronId": 171368,
+          "label": "Iron Man (2026) #7",
+          "note": "In stores 2026-07-01"
+        },
+        {
+          "metronId": 172893,
+          "label": "Iron Man (2026) #8",
+          "note": "In stores 2026-08-05"
+        },
+        {
+          "metronId": 174356,
+          "label": "Iron Man (2026) #9",
+          "note": "In stores 2026-09-09"
+        },
+        {
+          "metronId": 181803,
+          "label": "Iron Man (2026) #10",
+          "note": "In stores 2026-10-14"
+        },
+        {
+          "metronId": 183482,
+          "label": "Iron Man (2026) #11",
+          "note": "In stores 2026-11-04"
+        },
+        {
+          "metronId": 185882,
+          "label": "Iron Man (2026) #12",
+          "note": "In stores 2026-12-02"
+        },
+        {
+          "metronId": 187769,
+          "label": "Iron Man (2026) #13",
+          "note": "In stores 2026-12-16"
+        },
+        {
+          "metronId": 189256,
+          "label": "Iron Man (2026) #14",
+          "note": "In stores 2027-01-06"
+        },
+        {
+          "metronId": 189464,
+          "label": "Iron Man (2026) #15",
+          "note": "In stores 2027-01-20"
+        }
+      ]
+    },
+    {
+      "id": "milesmorales-2023",
+      "title": "Miles Morales: Spider-Man (2023)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 53116,
+          "label": "Miles Morales: Spider-Man (2023) #1",
+          "note": "In stores 2022-12-07"
+        },
+        {
+          "metronId": 54049,
+          "label": "Miles Morales: Spider-Man (2023) #2",
+          "note": "In stores 2023-01-11"
+        },
+        {
+          "metronId": 54945,
+          "label": "Miles Morales: Spider-Man (2023) #3",
+          "note": "In stores 2023-02-01"
+        },
+        {
+          "metronId": 57308,
+          "label": "Miles Morales: Spider-Man (2023) #4",
+          "note": "In stores 2023-03-15"
+        },
+        {
+          "metronId": 60677,
+          "label": "Miles Morales: Spider-Man (2023) #5",
+          "note": "In stores 2023-04-12"
+        },
+        {
+          "metronId": 64463,
+          "label": "Miles Morales: Spider-Man (2023) #6",
+          "note": "In stores 2023-05-17"
+        },
+        {
+          "metronId": 66665,
+          "label": "Miles Morales: Spider-Man (2023) #7",
+          "note": "In stores 2023-06-21"
+        },
+        {
+          "metronId": 68621,
+          "label": "Miles Morales: Spider-Man (2023) #8",
+          "note": "In stores 2023-07-12"
+        },
+        {
+          "metronId": 72320,
+          "label": "Miles Morales: Spider-Man (2023) #9",
+          "note": "In stores 2023-08-09"
+        },
+        {
+          "metronId": 74420,
+          "label": "Miles Morales: Spider-Man (2023) #10",
+          "note": "In stores 2023-09-13"
+        },
+        {
+          "metronId": 76648,
+          "label": "Miles Morales: Spider-Man (2023) #11",
+          "note": "In stores 2023-10-18"
+        },
+        {
+          "metronId": 86669,
+          "label": "Miles Morales: Spider-Man (2023) #12",
+          "note": "In stores 2023-11-29"
+        },
+        {
+          "metronId": 90691,
+          "label": "Miles Morales: Spider-Man (2023) #13",
+          "note": "In stores 2023-12-13"
+        },
+        {
+          "metronId": 93144,
+          "label": "Miles Morales: Spider-Man (2023) #14",
+          "note": "In stores 2023-12-27"
+        },
+        {
+          "metronId": 101067,
+          "label": "Miles Morales: Spider-Man (2023) #15",
+          "note": "In stores 2024-01-10"
+        },
+        {
+          "metronId": 107644,
+          "label": "Miles Morales: Spider-Man (2023) #16",
+          "note": "In stores 2024-02-14"
+        },
+        {
+          "metronId": 110054,
+          "label": "Miles Morales: Spider-Man (2023) #17",
+          "note": "In stores 2024-02-28"
+        },
+        {
+          "metronId": 114802,
+          "label": "Miles Morales: Spider-Man (2023) #18",
+          "note": "In stores 2024-03-27"
+        },
+        {
+          "metronId": 115886,
+          "label": "Miles Morales: Spider-Man (2023) #19",
+          "note": "In stores 2024-04-17"
+        },
+        {
+          "metronId": 117803,
+          "label": "Miles Morales: Spider-Man (2023) #20",
+          "note": "In stores 2024-05-15"
+        },
+        {
+          "metronId": 120454,
+          "label": "Miles Morales: Spider-Man (2023) #21",
+          "note": "In stores 2024-06-12"
+        },
+        {
+          "metronId": 123416,
+          "label": "Miles Morales: Spider-Man (2023) #22",
+          "note": "In stores 2024-07-03"
+        },
+        {
+          "metronId": 125933,
+          "label": "Miles Morales: Spider-Man (2023) #23",
+          "note": "In stores 2024-08-14"
+        },
+        {
+          "metronId": 126791,
+          "label": "Miles Morales: Spider-Man (2023) #24",
+          "note": "In stores 2024-09-04"
+        },
+        {
+          "metronId": 128854,
+          "label": "Miles Morales: Spider-Man (2023) #25",
+          "note": "In stores 2024-10-16"
+        },
+        {
+          "metronId": 131588,
+          "label": "Miles Morales: Spider-Man (2023) #26",
+          "note": "In stores 2024-11-20"
+        },
+        {
+          "metronId": 132488,
+          "label": "Miles Morales: Spider-Man (2023) #27",
+          "note": "In stores 2024-12-04"
+        },
+        {
+          "metronId": 133093,
+          "label": "Miles Morales: Spider-Man (2023) #28",
+          "note": "In stores 2025-01-01"
+        },
+        {
+          "metronId": 133377,
+          "label": "Miles Morales: Spider-Man (2023) #29",
+          "note": "In stores 2025-01-15"
+        },
+        {
+          "metronId": 135287,
+          "label": "Miles Morales: Spider-Man (2023) #30",
+          "note": "In stores 2025-02-19"
+        },
+        {
+          "metronId": 137616,
+          "label": "Miles Morales: Spider-Man (2023) #31",
+          "note": "In stores 2025-03-19"
+        },
+        {
+          "metronId": 140607,
+          "label": "Miles Morales: Spider-Man (2023) #32",
+          "note": "In stores 2025-04-02"
+        },
+        {
+          "metronId": 144582,
+          "label": "Miles Morales: Spider-Man (2023) #33",
+          "note": "In stores 2025-05-14"
+        },
+        {
+          "metronId": 148918,
+          "label": "Miles Morales: Spider-Man (2023) #34",
+          "note": "In stores 2025-06-25"
+        },
+        {
+          "metronId": 149107,
+          "label": "Miles Morales: Spider-Man (2023) #35",
+          "note": "In stores 2025-07-09"
+        },
+        {
+          "metronId": 150988,
+          "label": "Miles Morales: Spider-Man (2023) #36",
+          "note": "In stores 2025-08-13"
+        },
+        {
+          "metronId": 151655,
+          "label": "Miles Morales: Spider-Man (2023) #37",
+          "note": "In stores 2025-08-27"
+        },
+        {
+          "metronId": 153108,
+          "label": "Miles Morales: Spider-Man (2023) #38",
+          "note": "In stores 2025-09-17"
+        },
+        {
+          "metronId": 156101,
+          "label": "Miles Morales: Spider-Man (2023) #39",
+          "note": "In stores 2025-10-22"
+        },
+        {
+          "metronId": 156569,
+          "label": "Miles Morales: Spider-Man (2023) #40",
+          "note": "In stores 2025-11-05"
+        },
+        {
+          "metronId": 157375,
+          "label": "Miles Morales: Spider-Man (2023) #41",
+          "note": "In stores 2025-12-03"
+        },
+        {
+          "metronId": 160477,
+          "label": "Miles Morales: Spider-Man (2023) #42",
+          "note": "In stores 2026-01-28"
+        }
+      ]
+    },
+    {
+      "id": "moonknight-2026",
+      "title": "Marc Spector: Moon Knight (2026)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 161512,
+          "label": "Marc Spector: Moon Knight (2026) #1",
+          "note": "In stores 2026-02-11"
+        },
+        {
+          "metronId": 163102,
+          "label": "Marc Spector: Moon Knight (2026) #2",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 164386,
+          "label": "Marc Spector: Moon Knight (2026) #3",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 166259,
+          "label": "Marc Spector: Moon Knight (2026) #4",
+          "note": "In stores 2026-05-06"
+        },
+        {
+          "metronId": 170475,
+          "label": "Marc Spector: Moon Knight (2026) #5",
+          "note": "In stores 2026-06-03"
+        },
+        {
+          "metronId": 172493,
+          "label": "Marc Spector: Moon Knight (2026) #6",
+          "note": "In stores 2026-07-22"
+        },
+        {
+          "metronId": 172894,
+          "label": "Marc Spector: Moon Knight (2026) #7",
+          "note": "In stores 2026-08-05"
+        },
+        {
+          "metronId": 174390,
+          "label": "Marc Spector: Moon Knight (2026) #8",
+          "note": "In stores 2026-09-16"
+        },
+        {
+          "metronId": 181871,
+          "label": "Marc Spector: Moon Knight (2026) #9",
+          "note": "In stores 2026-10-21"
+        },
+        {
+          "metronId": 185512,
+          "label": "Marc Spector: Moon Knight (2026) #10",
+          "note": "In stores 2026-11-18"
+        },
+        {
+          "metronId": 188966,
+          "label": "Marc Spector: Moon Knight (2026) #11",
+          "note": "In stores 2026-12-30"
+        },
+        {
+          "metronId": 189390,
+          "label": "Marc Spector: Moon Knight (2026) #12",
+          "note": "In stores 2027-01-13"
+        }
+      ]
+    },
+    {
+      "id": "punisher-2026",
+      "title": "Punisher (2026)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 162639,
+          "label": "Punisher (2026) #1",
+          "note": "In stores 2026-02-25"
+        },
+        {
+          "metronId": 163487,
+          "label": "Punisher (2026) #2",
+          "note": "In stores 2026-03-25"
+        },
+        {
+          "metronId": 166057,
+          "label": "Punisher (2026) #3",
+          "note": "In stores 2026-04-29"
+        },
+        {
+          "metronId": 169727,
+          "label": "Punisher (2026) #4",
+          "note": "In stores 2026-05-20"
+        },
+        {
+          "metronId": 171290,
+          "label": "Punisher (2026) #5",
+          "note": "In stores 2026-06-17"
+        },
+        {
+          "metronId": 171371,
+          "label": "Punisher (2026) #6",
+          "note": "In stores 2026-07-01"
+        },
+        {
+          "metronId": 173164,
+          "label": "Punisher (2026) #7",
+          "note": "In stores 2026-08-12"
+        },
+        {
+          "metronId": 174359,
+          "label": "Punisher (2026) #8",
+          "note": "In stores 2026-09-09"
+        },
+        {
+          "metronId": 182697,
+          "label": "Punisher (2026) #9",
+          "note": "In stores 2026-10-28"
+        },
+        {
+          "metronId": 185515,
+          "label": "Punisher (2026) #10",
+          "note": "In stores 2026-11-18"
+        },
+        {
+          "metronId": 187659,
+          "label": "Punisher (2026) #11",
+          "note": "In stores 2026-12-09"
+        },
+        {
+          "metronId": 187914,
+          "label": "Punisher (2026) #12",
+          "note": "In stores 2026-12-23"
+        },
+        {
+          "metronId": 189467,
+          "label": "Punisher (2026) #13",
+          "note": "In stores 2027-01-20"
+        }
+      ]
+    },
+    {
+      "id": "spider-man-2025",
+      "title": "The Amazing Spider-Man (2025)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 140616,
+          "label": "The Amazing Spider-Man (2025) #1",
+          "note": "In stores 2025-04-09"
+        },
+        {
+          "metronId": 142571,
+          "label": "The Amazing Spider-Man (2025) #2",
+          "note": "In stores 2025-04-23"
+        },
+        {
+          "metronId": 143793,
+          "label": "The Amazing Spider-Man (2025) #3",
+          "note": "In stores 2025-05-07"
+        },
+        {
+          "metronId": 145408,
+          "label": "The Amazing Spider-Man (2025) #4",
+          "note": "In stores 2025-05-21"
+        },
+        {
+          "metronId": 147907,
+          "label": "The Amazing Spider-Man (2025) #5",
+          "note": "In stores 2025-06-04"
+        },
+        {
+          "metronId": 148394,
+          "label": "The Amazing Spider-Man (2025) #6",
+          "note": "In stores 2025-06-18"
+        },
+        {
+          "metronId": 149080,
+          "label": "The Amazing Spider-Man (2025) #7",
+          "note": "In stores 2025-07-02"
+        },
+        {
+          "metronId": 150128,
+          "label": "The Amazing Spider-Man (2025) #8",
+          "note": "In stores 2025-07-23"
+        },
+        {
+          "metronId": 150754,
+          "label": "The Amazing Spider-Man (2025) #9",
+          "note": "In stores 2025-08-06"
+        },
+        {
+          "metronId": 151130,
+          "label": "The Amazing Spider-Man (2025) #10",
+          "note": "In stores 2025-08-20"
+        },
+        {
+          "metronId": 151944,
+          "label": "The Amazing Spider-Man (2025) #11",
+          "note": "In stores 2025-09-03"
+        },
+        {
+          "metronId": 153101,
+          "label": "The Amazing Spider-Man (2025) #12",
+          "note": "In stores 2025-09-17"
+        },
+        {
+          "metronId": 155155,
+          "label": "The Amazing Spider-Man (2025) #13",
+          "note": "In stores 2025-10-01"
+        },
+        {
+          "metronId": 155708,
+          "label": "The Amazing Spider-Man (2025) #14",
+          "note": "In stores 2025-10-15"
+        },
+        {
+          "metronId": 156562,
+          "label": "The Amazing Spider-Man (2025) #15",
+          "note": "In stores 2025-11-05"
+        },
+        {
+          "metronId": 156890,
+          "label": "The Amazing Spider-Man (2025) #16",
+          "note": "In stores 2025-11-19"
+        },
+        {
+          "metronId": 157724,
+          "label": "The Amazing Spider-Man (2025) #17",
+          "note": "In stores 2025-12-10"
+        },
+        {
+          "metronId": 158544,
+          "label": "The Amazing Spider-Man (2025) #18",
+          "note": "In stores 2025-12-24"
+        },
+        {
+          "metronId": 158808,
+          "label": "The Amazing Spider-Man (2025) #19",
+          "note": "In stores 2026-01-07"
+        },
+        {
+          "metronId": 159721,
+          "label": "The Amazing Spider-Man (2025) #20",
+          "note": "In stores 2026-01-21"
+        },
+        {
+          "metronId": 161146,
+          "label": "The Amazing Spider-Man (2025) #21",
+          "note": "In stores 2026-02-04"
+        },
+        {
+          "metronId": 162195,
+          "label": "The Amazing Spider-Man (2025) #22",
+          "note": "In stores 2026-02-18"
+        },
+        {
+          "metronId": 162908,
+          "label": "The Amazing Spider-Man (2025) #23",
+          "note": "In stores 2026-03-04"
+        },
+        {
+          "metronId": 163097,
+          "label": "The Amazing Spider-Man (2025) #24",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 163473,
+          "label": "The Amazing Spider-Man (2025) #25",
+          "note": "In stores 2026-03-25"
+        },
+        {
+          "metronId": 163869,
+          "label": "The Amazing Spider-Man (2025) #26",
+          "note": "In stores 2026-04-08"
+        },
+        {
+          "metronId": 164380,
+          "label": "The Amazing Spider-Man (2025) #27",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 166250,
+          "label": "The Amazing Spider-Man (2025) #28",
+          "note": "In stores 2026-05-06"
+        },
+        {
+          "metronId": 169720,
+          "label": "The Amazing Spider-Man (2025) #29",
+          "note": "In stores 2026-05-20"
+        },
+        {
+          "metronId": 170465,
+          "label": "The Amazing Spider-Man (2025) #30",
+          "note": "In stores 2026-06-03"
+        },
+        {
+          "metronId": 171284,
+          "label": "The Amazing Spider-Man (2025) #31",
+          "note": "In stores 2026-06-17"
+        },
+        {
+          "metronId": 171364,
+          "label": "The Amazing Spider-Man (2025) #32",
+          "note": "In stores 2026-07-01"
+        },
+        {
+          "metronId": 172488,
+          "label": "The Amazing Spider-Man (2025) #33",
+          "note": "In stores 2026-07-22"
+        },
+        {
+          "metronId": 172888,
+          "label": "The Amazing Spider-Man (2025) #34",
+          "note": "In stores 2026-08-05"
+        },
+        {
+          "metronId": 174331,
+          "label": "The Amazing Spider-Man (2025) #35",
+          "note": "In stores 2026-08-26"
+        },
+        {
+          "metronId": 174662,
+          "label": "The Amazing Spider-Man (2025) #1000",
+          "note": "In stores 2026-09-30"
+        },
+        {
+          "metronId": 181794,
+          "label": "The Amazing Spider-Man (2025) #1001",
+          "note": "In stores 2026-10-14"
+        },
+        {
+          "metronId": 183003,
+          "label": "The Amazing Spider-Man (2025) #1002",
+          "note": "In stores 2026-10-28"
+        },
+        {
+          "metronId": 185210,
+          "label": "The Amazing Spider-Man (2025) #1003",
+          "note": "In stores 2026-11-11"
+        },
+        {
+          "metronId": 185797,
+          "label": "The Amazing Spider-Man (2025) #1004",
+          "note": "In stores 2026-11-25"
+        },
+        {
+          "metronId": 187662,
+          "label": "The Amazing Spider-Man (2025) #1005",
+          "note": "In stores 2026-12-09"
+        },
+        {
+          "metronId": 187915,
+          "label": "The Amazing Spider-Man (2025) #1006",
+          "note": "In stores 2026-12-23"
+        },
+        {
+          "metronId": 189258,
+          "label": "The Amazing Spider-Man (2025) #1007",
+          "note": "In stores 2027-01-06"
+        },
+        {
+          "metronId": 189472,
+          "label": "The Amazing Spider-Man (2025) #1008",
+          "note": "In stores 2027-01-20"
+        }
+      ]
+    },
+    {
+      "id": "storm-2024",
+      "title": "Storm (2024)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 128031,
+          "label": "Storm (2024) #1",
+          "note": "In stores 2024-10-02"
+        },
+        {
+          "metronId": 131599,
+          "label": "Storm (2024) #2",
+          "note": "In stores 2024-11-20"
+        },
+        {
+          "metronId": 132674,
+          "label": "Storm (2024) #3",
+          "note": "In stores 2024-12-11"
+        },
+        {
+          "metronId": 133381,
+          "label": "Storm (2024) #4",
+          "note": "In stores 2025-01-15"
+        },
+        {
+          "metronId": 135292,
+          "label": "Storm (2024) #5",
+          "note": "In stores 2025-02-19"
+        },
+        {
+          "metronId": 137029,
+          "label": "Storm (2024) #6",
+          "note": "In stores 2025-03-05"
+        },
+        {
+          "metronId": 140624,
+          "label": "Storm (2024) #7",
+          "note": "In stores 2025-04-09"
+        },
+        {
+          "metronId": 143802,
+          "label": "Storm (2024) #8",
+          "note": "In stores 2025-05-07"
+        },
+        {
+          "metronId": 147920,
+          "label": "Storm (2024) #9",
+          "note": "In stores 2025-06-04"
+        },
+        {
+          "metronId": 150140,
+          "label": "Storm (2024) #10",
+          "note": "In stores 2025-07-23"
+        },
+        {
+          "metronId": 150765,
+          "label": "Storm (2024) #11",
+          "note": "In stores 2025-08-06"
+        },
+        {
+          "metronId": 153837,
+          "label": "Storm (2024) #12",
+          "note": "In stores 2025-09-24"
+        }
+      ]
+    },
+    {
+      "id": "swcaptainamerica-2025",
+      "title": "Sam Wilson: Captain America (2025)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 133094,
+          "label": "Sam Wilson: Captain America (2025) #1",
+          "note": "In stores 2025-01-01"
+        },
+        {
+          "metronId": 134392,
+          "label": "Sam Wilson: Captain America (2025) #2",
+          "note": "In stores 2025-02-12"
+        },
+        {
+          "metronId": 137620,
+          "label": "Sam Wilson: Captain America (2025) #3",
+          "note": "In stores 2025-03-19"
+        },
+        {
+          "metronId": 141991,
+          "label": "Sam Wilson: Captain America (2025) #4",
+          "note": "In stores 2025-04-16"
+        },
+        {
+          "metronId": 143798,
+          "label": "Sam Wilson: Captain America (2025) #5",
+          "note": "In stores 2025-05-07"
+        }
+      ]
+    },
+    {
+      "id": "thor-2025",
+      "title": "The Mortal Thor (2025)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 151656,
+          "label": "The Mortal Thor (2025) #1",
+          "note": "In stores 2025-08-27"
+        },
+        {
+          "metronId": 153830,
+          "label": "The Mortal Thor (2025) #2",
+          "note": "In stores 2025-09-24"
+        },
+        {
+          "metronId": 156277,
+          "label": "The Mortal Thor (2025) #3",
+          "note": "In stores 2025-10-29"
+        },
+        {
+          "metronId": 157201,
+          "label": "The Mortal Thor (2025) #4",
+          "note": "In stores 2025-11-26"
+        },
+        {
+          "metronId": 158210,
+          "label": "The Mortal Thor (2025) #5",
+          "note": "In stores 2025-12-17"
+        },
+        {
+          "metronId": 159728,
+          "label": "The Mortal Thor (2025) #6",
+          "note": "In stores 2026-01-21"
+        },
+        {
+          "metronId": 162636,
+          "label": "The Mortal Thor (2025) #7",
+          "note": "In stores 2026-02-25"
+        },
+        {
+          "metronId": 163103,
+          "label": "The Mortal Thor (2025) #8",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 163875,
+          "label": "The Mortal Thor (2025) #9",
+          "note": "In stores 2026-04-08"
+        },
+        {
+          "metronId": 169064,
+          "label": "The Mortal Thor (2025) #10",
+          "note": "In stores 2026-05-13"
+        },
+        {
+          "metronId": 170873,
+          "label": "The Mortal Thor (2025) #11",
+          "note": "In stores 2026-06-10"
+        },
+        {
+          "metronId": 171370,
+          "label": "The Mortal Thor (2025) #12",
+          "note": "In stores 2026-07-01"
+        },
+        {
+          "metronId": 172592,
+          "label": "The Mortal Thor (2025) #13",
+          "note": "In stores 2026-07-29"
+        },
+        {
+          "metronId": 173913,
+          "label": "The Mortal Thor (2025) #14",
+          "note": "In stores 2026-08-19"
+        },
+        {
+          "metronId": 174461,
+          "label": "The Mortal Thor (2025) #801",
+          "note": "In stores 2026-09-23"
+        },
+        {
+          "metronId": 183015,
+          "label": "The Mortal Thor (2025) #802",
+          "note": "In stores 2026-10-28"
+        },
+        {
+          "metronId": 185799,
+          "label": "The Mortal Thor (2025) #803",
+          "note": "In stores 2026-11-25"
+        },
+        {
+          "metronId": 187775,
+          "label": "The Mortal Thor (2025) #804",
+          "note": "In stores 2026-12-16"
+        },
+        {
+          "metronId": 189473,
+          "label": "Thor (2025) #805",
+          "note": "In stores 2027-01-20"
+        }
+      ]
+    },
+    {
+      "id": "venom-2025",
+      "title": "All-New Venom (2025)",
+      "summary": "Ongoing series Venom (2025).",
+      "entries": [
+        {
+          "metronId": 132482,
+          "label": "All-New Venom (2025) #1",
+          "note": "In stores 2024-12-04"
+        },
+        {
+          "metronId": 133322,
+          "label": "All-New Venom (2025) #2",
+          "note": "In stores 2025-01-08"
+        },
+        {
+          "metronId": 134378,
+          "label": "All-New Venom (2025) #3",
+          "note": "In stores 2025-02-12"
+        },
+        {
+          "metronId": 137034,
+          "label": "All-New Venom (2025) #4",
+          "note": "In stores 2025-03-12"
+        },
+        {
+          "metronId": 140598,
+          "label": "All-New Venom (2025) #5",
+          "note": "In stores 2025-04-02"
+        },
+        {
+          "metronId": 143792,
+          "label": "All-New Venom (2025) #6",
+          "note": "In stores 2025-05-07"
+        },
+        {
+          "metronId": 147906,
+          "label": "All-New Venom (2025) #7",
+          "note": "In stores 2025-06-04"
+        },
+        {
+          "metronId": 149079,
+          "label": "All-New Venom (2025) #8",
+          "note": "In stores 2025-07-02"
+        },
+        {
+          "metronId": 150753,
+          "label": "All-New Venom (2025) #9",
+          "note": "In stores 2025-08-06"
+        },
+        {
+          "metronId": 151943,
+          "label": "All-New Venom (2025) #10",
+          "note": "In stores 2025-09-03"
+        },
+        {
+          "metronId": 155177,
+          "label": "Venom (2025) #250",
+          "note": "In stores 2025-10-01"
+        },
+        {
+          "metronId": 156777,
+          "label": "Venom (2025) #251",
+          "note": "In stores 2025-11-12"
+        },
+        {
+          "metronId": 157382,
+          "label": "Venom (2025) #252",
+          "note": "In stores 2025-12-03"
+        },
+        {
+          "metronId": 158816,
+          "label": "Venom (2025) #253",
+          "note": "In stores 2026-01-07"
+        },
+        {
+          "metronId": 161516,
+          "label": "Venom (2025) #254",
+          "note": "In stores 2026-02-11"
+        },
+        {
+          "metronId": 163341,
+          "label": "Venom (2025) #255",
+          "note": "In stores 2026-03-11"
+        },
+        {
+          "metronId": 163616,
+          "label": "Venom (2025) #256",
+          "note": "In stores 2026-04-01"
+        },
+        {
+          "metronId": 164287,
+          "label": "Venom (2025) #257",
+          "note": "In stores 2026-04-15"
+        },
+        {
+          "metronId": 169732,
+          "label": "Venom (2025) #258",
+          "note": "In stores 2026-05-20"
+        },
+        {
+          "metronId": 171360,
+          "label": "Venom (2025) #259",
+          "note": "In stores 2026-06-24"
+        },
+        {
+          "metronId": 173167,
+          "label": "Venom (2025) #260",
+          "note": "In stores 2026-08-12"
+        },
+        {
+          "metronId": 174347,
+          "label": "Venom (2025) #261",
+          "note": "In stores 2026-09-02"
+        },
+        {
+          "metronId": 174667,
+          "label": "Venom (2025) #262",
+          "note": "In stores 2026-09-30"
+        }
+      ],
+      "category": "ongoing"
+    },
+    {
+      "id": "venom-2026",
+      "title": "Venom (2026)",
+      "summary": "Ongoing series Venom (2026).",
+      "entries": [
+        {
+          "metronId": 181809,
+          "label": "Venom (2026) #1",
+          "note": "In stores 2026-10-14"
+        },
+        {
+          "metronId": 185801,
+          "label": "Venom (2026) #2",
+          "note": "In stores 2026-11-25"
+        },
+        {
+          "metronId": 188968,
+          "label": "Venom (2026) #3",
+          "note": "In stores 2026-12-30"
+        }
+      ],
+      "category": "ongoing"
+    },
+    {
+      "id": "wolverine-2024",
+      "title": "Wolverine (2024)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 126818,
+          "label": "Wolverine (2024) #1",
+          "note": "In stores 2024-09-11"
+        },
+        {
+          "metronId": 128862,
+          "label": "Wolverine (2024) #2",
+          "note": "In stores 2024-10-16"
+        },
+        {
+          "metronId": 131603,
+          "label": "Wolverine (2024) #3",
+          "note": "In stores 2024-11-20"
+        },
+        {
+          "metronId": 132493,
+          "label": "Wolverine (2024) #4",
+          "note": "In stores 2024-12-04"
+        },
+        {
+          "metronId": 133333,
+          "label": "Wolverine (2024) #5",
+          "note": "In stores 2025-01-08"
+        },
+        {
+          "metronId": 134377,
+          "label": "Wolverine (2024) #6",
+          "note": "In stores 2025-02-05"
+        },
+        {
+          "metronId": 137033,
+          "label": "Wolverine (2024) #7",
+          "note": "In stores 2025-03-05"
+        },
+        {
+          "metronId": 141997,
+          "label": "Wolverine (2024) #8",
+          "note": "In stores 2025-04-16"
+        },
+        {
+          "metronId": 144701,
+          "label": "Wolverine (2024) #9",
+          "note": "In stores 2025-05-14"
+        },
+        {
+          "metronId": 148413,
+          "label": "Wolverine (2024) #10",
+          "note": "In stores 2025-06-18"
+        },
+        {
+          "metronId": 150143,
+          "label": "Wolverine (2024) #11",
+          "note": "In stores 2025-07-23"
+        },
+        {
+          "metronId": 151144,
+          "label": "Wolverine (2024) #12",
+          "note": "In stores 2025-08-20"
+        },
+        {
+          "metronId": 151953,
+          "label": "Wolverine (2024) #13",
+          "note": "In stores 2025-09-03"
+        },
+        {
+          "metronId": 158817,
+          "label": "Wolverine (2024) #14",
+          "note": "In stores 2026-01-07"
+        },
+        {
+          "metronId": 161158,
+          "label": "Wolverine (2024) #15",
+          "note": "In stores 2026-02-04"
+        },
+        {
+          "metronId": 162215,
+          "label": "Wolverine (2024) #16",
+          "note": "In stores 2026-02-18"
+        },
+        {
+          "metronId": 162915,
+          "label": "Wolverine (2024) #17",
+          "note": "In stores 2026-03-04"
+        },
+        {
+          "metronId": 163882,
+          "label": "Wolverine (2024) #18",
+          "note": "In stores 2026-04-08"
+        },
+        {
+          "metronId": 164393,
+          "label": "Wolverine (2024) #19",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 169069,
+          "label": "Wolverine (2024) #20",
+          "note": "In stores 2026-05-13"
+        },
+        {
+          "metronId": 170876,
+          "label": "Wolverine (2024) #21",
+          "note": "In stores 2026-06-10"
+        },
+        {
+          "metronId": 171361,
+          "label": "Wolverine (2024) #22",
+          "note": "In stores 2026-06-24"
+        },
+        {
+          "metronId": 171818,
+          "label": "Wolverine (2024) #23",
+          "note": "In stores 2026-07-08"
+        },
+        {
+          "metronId": 172497,
+          "label": "Wolverine (2024) #24",
+          "note": "In stores 2026-07-22"
+        },
+        {
+          "metronId": 173168,
+          "label": "Wolverine (2024) #25",
+          "note": "In stores 2026-08-12"
+        },
+        {
+          "metronId": 174334,
+          "label": "Wolverine (2024) #26",
+          "note": "In stores 2026-08-26"
+        },
+        {
+          "metronId": 174361,
+          "label": "Wolverine (2024) #27",
+          "note": "In stores 2026-09-09"
+        },
+        {
+          "metronId": 174462,
+          "label": "Wolverine (2024) #28",
+          "note": "In stores 2026-09-23"
+        },
+        {
+          "metronId": 183488,
+          "label": "Wolverine (2024) #29",
+          "note": "In stores 2026-11-04"
+        },
+        {
+          "metronId": 185888,
+          "label": "Wolverine (2024) #30",
+          "note": "In stores 2026-12-02"
+        },
+        {
+          "metronId": 189260,
+          "label": "Wolverine (2024) #31",
+          "note": "In stores 2027-01-06"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cylcops-2026",
+  "title": "Cyclops (2026)",
+  "category": "limited",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 161510,
+      "label": "Cyclops (2026) #1",
+      "note": "In stores 2026-02-11"
+    },
+    {
+      "metronId": 163100,
+      "label": "Cyclops (2026) #2",
+      "note": "In stores 2026-03-18"
+    },
+    {
+      "metronId": 164383,
+      "label": "Cyclops (2026) #3",
+      "note": "In stores 2026-04-22"
+    },
+    {
+      "metronId": 166254,
+      "label": "Cyclops (2026) #4",
+      "note": "In stores 2026-05-06"
+    },
+    {
+      "metronId": 170466,
+      "label": "Cyclops (2026) #5",
+      "note": "In stores 2026-06-03"
+    }
+  ]
+}

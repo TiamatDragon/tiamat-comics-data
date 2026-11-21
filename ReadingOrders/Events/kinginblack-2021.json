@@ -1,0 +1,33 @@
+{
+  "id": "kinginblack-2021",
+  "title": "King in Black (2021)",
+  "category": "events",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 19777,
+      "label": "King in Black (2021) #1",
+      "note": "In stores 2020-12-02"
+    },
+    {
+      "metronId": 21227,
+      "label": "King in Black (2021) #2",
+      "note": "In stores 2020-12-23"
+    },
+    {
+      "metronId": 23181,
+      "label": "King in Black (2021) #3",
+      "note": "In stores 2021-01-20"
+    },
+    {
+      "metronId": 25228,
+      "label": "King in Black (2021) #4",
+      "note": "In stores 2021-02-17"
+    },
+    {
+      "metronId": 28325,
+      "label": "King in Black (2021) #5",
+      "note": "In stores 2021-04-07"
+    }
+  ]
+}

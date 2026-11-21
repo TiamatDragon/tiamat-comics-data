@@ -1,0 +1,28 @@
+{
+  "id": "blackwidow-2024",
+  "title": "Black Widow & Hawkeye (2024)",
+  "category": "limited",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 113756,
+      "label": "Black Widow & Hawkeye (2024) #1",
+      "note": "In stores 2024-03-13"
+    },
+    {
+      "metronId": 115880,
+      "label": "Black Widow & Hawkeye (2024) #2",
+      "note": "In stores 2024-04-17"
+    },
+    {
+      "metronId": 118712,
+      "label": "Black Widow & Hawkeye (2024) #3",
+      "note": "In stores 2024-05-22"
+    },
+    {
+      "metronId": 123326,
+      "label": "Black Widow & Hawkeye (2024) #4",
+      "note": "In stores 2024-06-26"
+    }
+  ]
+}

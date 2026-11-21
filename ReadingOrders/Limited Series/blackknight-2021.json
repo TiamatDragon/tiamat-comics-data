@@ -1,0 +1,33 @@
+{
+  "id": "blackknight-2021",
+  "title": "Black Knight: Curse of the Ebony Blade (2021)",
+  "category": "limited",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 26994,
+      "label": "Black Knight: Curse of the Ebony Blade (2021) #1",
+      "note": "In stores 2021-03-17"
+    },
+    {
+      "metronId": 29240,
+      "label": "Black Knight: Curse of the Ebony Blade (2021) #2",
+      "note": "In stores 2021-04-21"
+    },
+    {
+      "metronId": 30665,
+      "label": "Black Knight: Curse of the Ebony Blade (2021) #3",
+      "note": "In stores 2021-05-19"
+    },
+    {
+      "metronId": 32843,
+      "label": "Black Knight: Curse of the Ebony Blade (2021) #4",
+      "note": "In stores 2021-06-30"
+    },
+    {
+      "metronId": 34954,
+      "label": "Black Knight: Curse of the Ebony Blade (2021) #5",
+      "note": "In stores 2021-07-28"
+    }
+  ]
+}

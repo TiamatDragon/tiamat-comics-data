@@ -1,0 +1,33 @@
+{
+  "id": "rogue-2026",
+  "title": "Rogue (2026)",
+  "category": "limited",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 159732,
+      "label": "Rogue (2026) #1",
+      "note": "In stores 2026-01-21"
+    },
+    {
+      "metronId": 162640,
+      "label": "Rogue (2026) #2",
+      "note": "In stores 2026-02-25"
+    },
+    {
+      "metronId": 163488,
+      "label": "Rogue (2026) #3",
+      "note": "In stores 2026-03-25"
+    },
+    {
+      "metronId": 164388,
+      "label": "Rogue (2026) #4",
+      "note": "In stores 2026-04-22"
+    },
+    {
+      "metronId": 169728,
+      "label": "Rogue (2026) #5",
+      "note": "In stores 2026-05-20"
+    }
+  ]
+}

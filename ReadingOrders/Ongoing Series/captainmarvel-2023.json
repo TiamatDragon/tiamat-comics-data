@@ -1,0 +1,58 @@
+{
+  "id": "captainmarvel-2023",
+  "title": "Captain Marvel (2023)",
+  "category": "ongoing",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 77310,
+      "label": "Captain Marvel (2023) #1",
+      "note": "In stores 2023-10-25"
+    },
+    {
+      "metronId": 86417,
+      "label": "Captain Marvel (2023) #2",
+      "note": "In stores 2023-11-22"
+    },
+    {
+      "metronId": 93138,
+      "label": "Captain Marvel (2023) #3",
+      "note": "In stores 2023-12-27"
+    },
+    {
+      "metronId": 101062,
+      "label": "Captain Marvel (2023) #4",
+      "note": "In stores 2024-01-10"
+    },
+    {
+      "metronId": 110030,
+      "label": "Captain Marvel (2023) #5",
+      "note": "In stores 2024-02-21"
+    },
+    {
+      "metronId": 114791,
+      "label": "Captain Marvel (2023) #6",
+      "note": "In stores 2024-03-20"
+    },
+    {
+      "metronId": 115881,
+      "label": "Captain Marvel (2023) #7",
+      "note": "In stores 2024-04-17"
+    },
+    {
+      "metronId": 118019,
+      "label": "Captain Marvel (2023) #8",
+      "note": "In stores 2024-05-08"
+    },
+    {
+      "metronId": 122309,
+      "label": "Captain Marvel (2023) #9",
+      "note": "In stores 2024-06-19"
+    },
+    {
+      "metronId": 125568,
+      "label": "Captain Marvel (2023) #10",
+      "note": "In stores 2024-07-31"
+    }
+  ]
+}

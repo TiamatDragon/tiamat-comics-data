@@ -1,0 +1,28 @@
+{
+  "id": "blackpanther-2026",
+  "title": "Black Panther: Intergalactic (2026)",
+  "category": "limited",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 158204,
+      "label": "Black Panther: Intergalactic (2026) #1",
+      "note": "In stores 2025-12-17"
+    },
+    {
+      "metronId": 159722,
+      "label": "Black Panther: Intergalactic (2026) #2",
+      "note": "In stores 2026-01-21"
+    },
+    {
+      "metronId": 162630,
+      "label": "Black Panther: Intergalactic (2026) #3",
+      "note": "In stores 2026-02-25"
+    },
+    {
+      "metronId": 163098,
+      "label": "Black Panther: Intergalactic (2026) #4",
+      "note": "In stores 2026-03-18"
+    }
+  ]
+}

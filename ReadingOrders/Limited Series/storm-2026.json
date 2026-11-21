@@ -1,0 +1,33 @@
+{
+  "id": "storm-2026",
+  "title": "Storm: Earth's Mightiest Mutant (2026)",
+  "category": "limited",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 161154,
+      "label": "Storm: Earth's Mightiest Mutant (2026) #1",
+      "note": "In stores 2026-02-04"
+    },
+    {
+      "metronId": 163026,
+      "label": "Storm: Earth's Mightiest Mutant (2026) #2",
+      "note": "In stores 2026-03-11"
+    },
+    {
+      "metronId": 164285,
+      "label": "Storm: Earth's Mightiest Mutant (2026) #3",
+      "note": "In stores 2026-04-15"
+    },
+    {
+      "metronId": 166261,
+      "label": "Storm: Earth's Mightiest Mutant (2026) #4",
+      "note": "In stores 2026-05-06"
+    },
+    {
+      "metronId": 170488,
+      "label": "Storm: Earth's Mightiest Mutant (2026) #5",
+      "note": "In stores 2026-06-03"
+    }
+  ]
+}

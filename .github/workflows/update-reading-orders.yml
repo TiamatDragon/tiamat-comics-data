@@ -1,0 +1,40 @@
+name: Update reading orders
+
+on:
+  schedule:
+    - cron: '0 14 * * 4'          # Thursdays 14:00 UTC: add new issues from Metron
+  workflow_dispatch:               # "Run workflow" button
+  push:
+    branches: [main]
+    paths: ['ReadingOrders/**']    # your own edits: just rebuild reading-orders.json
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add new issues from Metron (weekly and manual runs only)
+        if: github.event_name != 'push'
+        shell: pwsh
+        env:
+          METRON_USERNAME: ${{ secrets.METRON_USERNAME }}
+          METRON_PASSWORD: ${{ secrets.METRON_PASSWORD }}
+        run: ./scripts/Update-OngoingSeries.ps1
+
+      - name: Rebuild reading-orders.json
+        shell: pwsh
+        run: ./scripts/Build-ReadingOrderIndex.ps1
+
+      - name: Commit any changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898319+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Update reading orders"
+          git pull --rebase
+          git push
