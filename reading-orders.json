@@ -726,6 +726,34 @@
       "catergory": "Limited Series"
     },
     {
+      "id": "magneto-2024",
+      "title": "Resurrection of Magneto (2024)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 104110,
+          "label": "Resurrection of Magneto (2024) #1",
+          "note": "In stores 2024-01-24"
+        },
+        {
+          "metronId": 110057,
+          "label": "Resurrection of Magneto (2024) #2",
+          "note": "In stores 2024-02-28"
+        },
+        {
+          "metronId": 114230,
+          "label": "Resurrection of Magneto (2024) #3",
+          "note": "In stores 2024-03-20"
+        },
+        {
+          "metronId": 115256,
+          "label": "Resurrection of Magneto (2024) #4",
+          "note": "In stores 2024-04-10"
+        }
+      ]
+    },
+    {
       "id": "rogue-2026",
       "title": "Rogue (2026)",
       "category": "limited",
