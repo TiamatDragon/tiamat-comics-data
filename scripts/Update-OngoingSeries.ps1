@@ -19,6 +19,7 @@ $series = @(
     @{ SeriesName = 'Cyclops'; SeriesId = 14958; OrderId = 'cyclops-2026'; Title = 'Cyclops (2026)' }
     @{ SeriesName = 'Storm'; SeriesId = 14849; OrderId = 'storm-2026'; Title = 'Storm: Earths Mighest Mutant (2026)' }
     @{ SeriesName = 'Strange'; SeriesId = 13947; OrderId = 'strange-2026'; Title = 'Doctor Strange (2026)' }
+    @{ SeriesName = 'Fantastic Four'; SeriesId = 12316; OrderId = 'fantasticfour-2025'; Title = 'Fantastic Four (2025)' }
 )
 
 foreach ($s in $series) {
