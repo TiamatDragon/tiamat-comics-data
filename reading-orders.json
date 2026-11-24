@@ -1724,6 +1724,119 @@
       ]
     },
     {
+      "id": "fantasticfour-2025",
+      "title": "Fantastic Four (2025)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 149101,
+          "label": "Fantastic Four (2025) #1",
+          "note": "In stores 2025-07-09"
+        },
+        {
+          "metronId": 150983,
+          "label": "Fantastic Four (2025) #2",
+          "note": "In stores 2025-08-13"
+        },
+        {
+          "metronId": 153103,
+          "label": "Fantastic Four (2025) #3",
+          "note": "In stores 2025-09-17"
+        },
+        {
+          "metronId": 156097,
+          "label": "Fantastic Four (2025) #4",
+          "note": "In stores 2025-10-22"
+        },
+        {
+          "metronId": 156758,
+          "label": "Fantastic Four (2025) #5",
+          "note": "In stores 2025-11-12"
+        },
+        {
+          "metronId": 157371,
+          "label": "Fantastic Four (2025) #6",
+          "note": "In stores 2025-12-03"
+        },
+        {
+          "metronId": 159725,
+          "label": "Fantastic Four (2025) #7",
+          "note": "In stores 2026-01-21"
+        },
+        {
+          "metronId": 162206,
+          "label": "Fantastic Four (2025) #8",
+          "note": "In stores 2026-02-18"
+        },
+        {
+          "metronId": 163476,
+          "label": "Fantastic Four (2025) #9",
+          "note": "In stores 2026-03-25"
+        },
+        {
+          "metronId": 166256,
+          "label": "Fantastic Four (2025) #10",
+          "note": "In stores 2026-05-06"
+        },
+        {
+          "metronId": 169722,
+          "label": "Fantastic Four (2025) #11",
+          "note": "In stores 2026-05-20"
+        },
+        {
+          "metronId": 170468,
+          "label": "Fantastic Four (2025) #12",
+          "note": "In stores 2026-06-03"
+        },
+        {
+          "metronId": 171367,
+          "label": "Fantastic Four (2025) #13",
+          "note": "In stores 2026-07-01"
+        },
+        {
+          "metronId": 172100,
+          "label": "Fantastic Four (2025) #14",
+          "note": "In stores 2026-07-15"
+        },
+        {
+          "metronId": 172891,
+          "label": "Fantastic Four (2025) #15",
+          "note": "In stores 2026-08-05"
+        },
+        {
+          "metronId": 174342,
+          "label": "Fantastic Four (2025) #16",
+          "note": "In stores 2026-09-02"
+        },
+        {
+          "metronId": 174655,
+          "label": "Fantastic Four (2025) #17",
+          "note": "In stores 2026-09-30"
+        },
+        {
+          "metronId": 183007,
+          "label": "Fantastic Four (2025) #18",
+          "note": "In stores 2026-10-28"
+        },
+        {
+          "metronId": 185511,
+          "label": "Fantastic Four (2025) #19",
+          "note": "In stores 2026-11-18"
+        },
+        {
+          "metronId": 187767,
+          "label": "Fantastic Four (2025) #20",
+          "note": "In stores 2026-12-16"
+        },
+        {
+          "metronId": 189461,
+          "label": "Fantastic Four (2025) #21",
+          "note": "In stores 2027-01-20"
+        }
+      ]
+    },
+    {
       "id": "infernalhulk-2026",
       "title": "Infernal Hulk (2026)",
       "category": "ongoing",
