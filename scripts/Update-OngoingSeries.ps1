@@ -2,7 +2,6 @@
 $series = @(
     @{ SeriesName = 'Venom'; SeriesId = 16923; OrderId = 'venom-2026'; Title = 'Venom (2026)' }
     @{ SeriesName = 'Gambit'; SeriesId = 16281; OrderId = 'gambit-2026'; Title = 'Gambit: Wanted (2026)' }
-    @{ SeriesName = 'Daredevil'; SeriesId = 5558; OrderId = 'daredevil-2023'; Title = 'Daredevil (2023)' }
     @{ SeriesName = 'Daredevil'; SeriesId = 15328; OrderId = 'daredevil-2026'; Title = 'Daredevil (2026)' }
     @{ SeriesName = 'Iron Man'; SeriesId = 14660; OrderId = 'ironman-2026'; Title = 'Iron Man (2026)' }
     @{ SeriesName = 'Captain America'; SeriesId = 12309; OrderId = 'captainamerica-2025'; Title = 'Captain America (2025)' }
@@ -11,7 +10,6 @@ $series = @(
     @{ SeriesName = 'Thor'; SeriesId = 12881; OrderId = 'thor-2025'; Title = 'The Mortal Thor (2025)' }
     @{ SeriesName = 'Moon Knight'; SeriesId = 14960; OrderId = 'moonknight-2026'; Title = 'Mark Spectre:Moon Knight (2026)' }
     @{ SeriesName = 'Black Panther'; SeriesId = 14118; OrderId = 'blackpanther-2026'; Title = 'Black Panther: Intergalactic (2026)' }
-    @{ SeriesName = 'Miles Morales'; SeriesId = 4984; OrderId = 'avengers-2023'; Title = 'The Avengers (2023)' }
     @{ SeriesName = 'Avengers'; SeriesId = 17270; OrderId = 'avengers-2027'; Title = 'Avengers (2027)' }
     @{ SeriesName = 'Deadpool'; SeriesId = 14961; OrderId = 'deadpool-2026'; Title = 'Wade Wilson: Deadpool (2026)' }
     @{ SeriesName = 'Punisher'; SeriesId = 15229; OrderId = 'punisher-2026'; Title = 'Punisher (2026)' }
@@ -20,7 +18,9 @@ $series = @(
     @{ SeriesName = 'Storm'; SeriesId = 14849; OrderId = 'storm-2026'; Title = 'Storm: Earths Mighest Mutant (2026)' }
     @{ SeriesName = 'Strange'; SeriesId = 13947; OrderId = 'strange-2026'; Title = 'Doctor Strange (2026)' }
     @{ SeriesName = 'Fantastic Four'; SeriesId = 12316; OrderId = 'fantasticfour-2025'; Title = 'Fantastic Four (2025)' }
-    @{ SeriesName = 'Miles Morales'; SeriesId = 16445; OrderId = 'milesmorales-2026; Title = 'Miles Morales = Spider-Man (2026)' }
+    @{ SeriesName = 'Miles Morales'; SeriesId = 16445; OrderId = 'milesmorales-2026'; Title = 'Miles Morales' = Spider-Man (2026)' }
+    @{ SeriesName = 'Black Cat'; SeriesId = 12746; OrderId = 'blackcat-2025'; Title = 'Black Cat (2025)' }
+    @{ SeriesName = 'Scarlet Witch'; SeriesId = 14178; OrderId = 'scarletwitch-2026'; Title = 'Scarlet Witch (2026)' }
 )
 
 foreach ($s in $series) {
