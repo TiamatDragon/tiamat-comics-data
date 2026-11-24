@@ -1,0 +1,38 @@
+{
+  "id": "milesmorales-2026",
+  "title": "Miles Morales: Spider-Man (2026)",
+  "category": "ongoing",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 173162,
+      "label": "Miles Morales: Spider-Man (2026) #1",
+      "note": "In stores 2026-08-12"
+    },
+    {
+      "metronId": 174454,
+      "label": "Miles Morales: Spider-Man (2026) #2",
+      "note": "In stores 2026-09-23"
+    },
+    {
+      "metronId": 181873,
+      "label": "Miles Morales: Spider-Man (2026) #3",
+      "note": "In stores 2026-10-21"
+    },
+    {
+      "metronId": 183484,
+      "label": "Miles Morales: Spider-Man (2026) #4",
+      "note": "In stores 2026-11-04"
+    },
+    {
+      "metronId": 185884,
+      "label": "Miles Morales: Spider-Man (2026) #5",
+      "note": "In stores 2026-12-23"
+    },
+    {
+      "metronId": 189466,
+      "label": "Miles Morales: Spider-Man (2026) #6",
+      "note": "In stores 2027-01-20"
+    }
+  ]
+}
