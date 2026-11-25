@@ -550,6 +550,104 @@
       ]
     },
     {
+      "id": "blackcat-2025",
+      "title": "Black Cat (2025)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 151131,
+          "label": "Black Cat (2025) #1",
+          "note": "In stores 2025-08-20"
+        },
+        {
+          "metronId": 153823,
+          "label": "Black Cat (2025) #2",
+          "note": "In stores 2025-09-24"
+        },
+        {
+          "metronId": 156270,
+          "label": "Black Cat (2025) #3",
+          "note": "In stores 2025-10-29"
+        },
+        {
+          "metronId": 157196,
+          "label": "Black Cat (2025) #4",
+          "note": "In stores 2025-11-26"
+        },
+        {
+          "metronId": 158203,
+          "label": "Black Cat (2025) #5",
+          "note": "In stores 2025-12-17"
+        },
+        {
+          "metronId": 159060,
+          "label": "Black Cat (2025) #6",
+          "note": "In stores 2026-01-14"
+        },
+        {
+          "metronId": 161509,
+          "label": "Black Cat (2025) #7",
+          "note": "In stores 2026-02-11"
+        },
+        {
+          "metronId": 163017,
+          "label": "Black Cat (2025) #8",
+          "note": "In stores 2026-03-11"
+        },
+        {
+          "metronId": 163870,
+          "label": "Black Cat (2025) #9",
+          "note": "In stores 2026-04-08"
+        },
+        {
+          "metronId": 169058,
+          "label": "Black Cat (2025) #10",
+          "note": "In stores 2026-05-13"
+        },
+        {
+          "metronId": 170868,
+          "label": "Black Cat (2025) #11",
+          "note": "In stores 2026-06-10"
+        },
+        {
+          "metronId": 171809,
+          "label": "Black Cat (2025) #12",
+          "note": "In stores 2026-07-08"
+        },
+        {
+          "metronId": 174325,
+          "label": "Black Cat (2025) #13",
+          "note": "In stores 2026-08-26"
+        },
+        {
+          "metronId": 174351,
+          "label": "Black Cat (2025) #14",
+          "note": "In stores 2026-09-09"
+        },
+        {
+          "metronId": 181796,
+          "label": "Black Cat (2025) #15",
+          "note": "In stores 2026-10-14"
+        },
+        {
+          "metronId": 185197,
+          "label": "Black Cat (2025) #16",
+          "note": "In stores 2026-11-11"
+        },
+        {
+          "metronId": 187654,
+          "label": "Black Cat (2025) #17",
+          "note": "In stores 2026-12-09"
+        },
+        {
+          "metronId": 189381,
+          "label": "Black Cat (2025) #18",
+          "note": "In stores 2027-01-13"
+        }
+      ]
+    },
+    {
       "id": "blackknight-2021",
       "title": "Black Knight: Curse of the Ebony Blade (2021)",
       "category": "limited",
@@ -2371,6 +2469,64 @@
           "metronId": 189467,
           "label": "Punisher (2026) #13",
           "note": "In stores 2027-01-20"
+        }
+      ]
+    },
+    {
+      "id": "scarletwitch-2026",
+      "title": "Sorcerer Supreme (2026)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 158557,
+          "label": "Sorcerer Supreme (2026) #1",
+          "note": "In stores 2025-12-31"
+        },
+        {
+          "metronId": 158558,
+          "label": "Sorcerer Supreme (2026) #2",
+          "note": "In stores 2026-01-28"
+        },
+        {
+          "metronId": 158559,
+          "label": "Sorcerer Supreme (2026) #3",
+          "note": "In stores 2026-02-25"
+        },
+        {
+          "metronId": 163106,
+          "label": "Sorcerer Supreme (2026) #4",
+          "note": "In stores 2026-03-18"
+        },
+        {
+          "metronId": 164390,
+          "label": "Sorcerer Supreme (2026) #5",
+          "note": "In stores 2026-04-22"
+        },
+        {
+          "metronId": 169730,
+          "label": "Sorcerer Supreme (2026) #6",
+          "note": "In stores 2026-05-20"
+        },
+        {
+          "metronId": 171291,
+          "label": "Sorcerer Supreme (2026) #7",
+          "note": "In stores 2026-06-17"
+        },
+        {
+          "metronId": 171815,
+          "label": "Sorcerer Supreme (2026) #8",
+          "note": "In stores 2026-07-08"
+        },
+        {
+          "metronId": 174330,
+          "label": "Sorcerer Supreme (2026) #9",
+          "note": "In stores 2026-08-26"
+        },
+        {
+          "metronId": 174661,
+          "label": "Sorcerer Supreme (2026) #10",
+          "note": "In stores 2026-09-30"
         }
       ]
     },
