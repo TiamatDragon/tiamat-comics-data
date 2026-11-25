@@ -7,6 +7,7 @@ param(
     [string] $OrderId,
     [string] $Title
 )
+git -C (Split-Path $PSScriptRoot -Parent) pull --rebase --autostash --quiet
 
 $cred    = Get-Credential -Message "Metron login"
 $pair    = "$($cred.UserName):$($cred.GetNetworkCredential().Password)"
@@ -54,7 +55,8 @@ $order = [ordered]@{
     entries = @($entries)
 }
 
-$src  = (Get-ChildItem ~/Developer/TiamatComics -Recurse -Filter Secrets.swift).DirectoryName
+$src  = (Get-ChildItem (Split-Path $PSScriptRoot -Parent) -Recurse -Directory -Filter ReadingOrders |
+         Select-Object -First 1).Parent.FullName
 $dir = "$src/ReadingOrders/Events"
 New-Item -ItemType Directory $dir -Force | Out-Null
 $path = "$dir/$OrderId.json"

@@ -7,8 +7,10 @@ param(
     [int]    $SeriesId,
     [string] $OrderId,
     [string] $Title,
+    [int]    $YearBegan,
     [ValidateSet('ongoing', 'limited', 'oneShot')] [string] $Category
 )
+git -C (Split-Path $PSScriptRoot -Parent) pull --rebase --autostash --quiet
 
 # Login: GitHub secrets when running in the Action, otherwise ask
 if ($env:METRON_USERNAME -and $env:METRON_PASSWORD) {
@@ -25,18 +27,34 @@ $headers = @{ Authorization = "Basic $auth"; "User-Agent" = "TiamatComics/0.1" }
 $base    = "https://metron.cloud/api"
 
 # Step 1: no SeriesId yet, so list matching series (newest first) and stop
+# Step 1: no SeriesId yet, so list ALL matching series (exact name matches first) and stop
 if (-not $SeriesId) {
-    $r = Invoke-RestMethod -Headers $headers -Uri "$base/series/?name=$([uri]::EscapeDataString($SeriesName))"
-    Write-Host "Series matching '$SeriesName' - rerun with -SeriesId <id>:"
-    $r.results | Sort-Object year_began -Descending |
+    $query = "name=$([uri]::EscapeDataString($SeriesName))"
+    if ($YearBegan) { $query += "&year_began=$YearBegan" }
+    $uri   = "$base/series/?$query"
+    $found = [System.Collections.Generic.List[object]]::new()
+    $page  = 0
+    while ($uri -and $page -lt 20) {
+        $r = Invoke-RestMethod -Headers $headers -Uri $uri
+        if ($r.results) { $found.AddRange([object[]]$r.results) }
+        $uri = $r.next
+        $page++
+        if ($uri) {
+            Write-Host "Page $page - $($found.Count) series so far"
+            Start-Sleep -Seconds 3
+        }
+    }
+
+    $exact = "^$([regex]::Escape($SeriesName)) \("   # e.g. "X-Men (2024)" but not "X-Men: Red (2022)"
+    Write-Host "$($found.Count) series match '$SeriesName' (exact name first, newest first). Rerun with -SeriesId <id>:"
+    $found |
+        Sort-Object @{ Expression = { $_.series -notmatch $exact } },
+                    @{ Expression = 'year_began'; Descending = $true } |
         Select-Object id, series, year_began, issue_count,
                       @{ n = 'type';      e = { $_.series_type.name } },
                       @{ n = 'publisher'; e = { $_.publisher.name } } |
         Format-Table -AutoSize
     return
-}
-if (-not $OrderId -or -not $Title) {
-    throw "Also pass -OrderId and -Title, e.g. -OrderId venom-2025 -Title 'Venom (2025)'"
 }
 
 # Category: from -Category if given, otherwise from Metron's series type
