@@ -964,6 +964,24 @@
       ]
     },
     {
+      "id": "xorcists-2024",
+      "title": "X-Orcists (2027)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 185521,
+          "label": "X-Orcists (2027) #1",
+          "note": "In stores 2026-11-18"
+        },
+        {
+          "metronId": 187918,
+          "label": "X-Orcists (2027) #2",
+          "note": "In stores 2026-12-23"
+        }
+      ]
+    },
+    {
       "id": "blackwidowv-2024",
       "title": "Black Widow: Venomous (2024)",
       "category": "oneShot",
