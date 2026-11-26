@@ -520,7 +520,7 @@
       "id": "kinginblack-2021",
       "title": "King in Black (2021)",
       "category": "events",
-      "summary": "From Metron. Rerun the script to add new issues.",
+      "summary": "King in Black Main Event Series.",
       "entries": [
         {
           "metronId": 19777,
@@ -553,7 +553,7 @@
       "id": "blackcat-2025",
       "title": "Black Cat (2025)",
       "category": "limited",
-      "summary": "From Metron. Rerun the script to add new issues.",
+      "summary": "Black Cat (2025)",
       "entries": [
         {
           "metronId": 151131,
@@ -1024,6 +1024,19 @@
           "metronId": 125567,
           "label": "Black Widow: Venomous (2024) #1",
           "note": "In stores 2024-07-31"
+        }
+      ]
+    },
+    {
+      "id": "doctorstrange-2025",
+      "title": "Doctor Strange #450 (2025)",
+      "category": "oneShot",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 151958,
+          "label": "Doctor Strange (2025) #450",
+          "note": "In stores 2025-09-03"
         }
       ]
     },
