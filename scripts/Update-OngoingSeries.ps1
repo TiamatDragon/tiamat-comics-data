@@ -22,6 +22,7 @@ $series = @(
     @{ SeriesName = 'Black Cat'; SeriesId = 12746; OrderId = 'blackcat-2025'; Title = 'Black Cat (2025)' }
     @{ SeriesName = 'Scarlet Witch'; SeriesId = 14178; OrderId = 'scarletwitch-2026'; Title = 'Scarlet Witch (2026)' }
     @{ SeriesName = 'X-Men'; SeriesId = 7914; OrderId = 'xmen-2024'; Title = 'X-Men (2024)' }
+    @{ SeriesName = 'X-Orcists'; SeriesID = 17556; OrderId ='xorcists-2027'; Title = 'X-Orcists (2027)' }
 )
 
 foreach ($s in $series) {
