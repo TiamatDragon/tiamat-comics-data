@@ -908,6 +908,39 @@
       ]
     },
     {
+      "id": "scarletwitch-2025",
+      "title": "The Vision and the Scarlet Witch (2025)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 145421,
+          "label": "The Vision and the Scarlet Witch (2025) #1",
+          "note": "In stores 2025-05-21"
+        },
+        {
+          "metronId": 148927,
+          "label": "The Vision and the Scarlet Witch (2025) #2",
+          "note": "In stores 2025-06-25"
+        },
+        {
+          "metronId": 150469,
+          "label": "The Vision and the Scarlet Witch (2025) #3",
+          "note": "In stores 2025-07-30"
+        },
+        {
+          "metronId": 151143,
+          "label": "The Vision and the Scarlet Witch (2025) #4",
+          "note": "In stores 2025-08-20"
+        },
+        {
+          "metronId": 153846,
+          "label": "The Vision and the Scarlet Witch (2025) #5",
+          "note": "In stores 2025-09-24"
+        }
+      ]
+    },
+    {
       "id": "storm-2026",
       "title": "Storm: Earth's Mightiest Mutant (2026)",
       "category": "limited",
@@ -2705,6 +2738,64 @@
           "metronId": 189467,
           "label": "Punisher (2026) #13",
           "note": "In stores 2027-01-20"
+        }
+      ]
+    },
+    {
+      "id": "scarletwitch-2024",
+      "title": "Scarlet Witch (2024)",
+      "category": "ongoing",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 120455,
+          "label": "Scarlet Witch (2024) #1",
+          "note": "In stores 2024-06-12"
+        },
+        {
+          "metronId": 125053,
+          "label": "Scarlet Witch (2024) #2",
+          "note": "In stores 2024-07-17"
+        },
+        {
+          "metronId": 126012,
+          "label": "Scarlet Witch (2024) #3",
+          "note": "In stores 2024-08-21"
+        },
+        {
+          "metronId": 126793,
+          "label": "Scarlet Witch (2024) #4",
+          "note": "In stores 2024-09-04"
+        },
+        {
+          "metronId": 129502,
+          "label": "Scarlet Witch (2024) #5",
+          "note": "In stores 2024-10-23"
+        },
+        {
+          "metronId": 131593,
+          "label": "Scarlet Witch (2024) #6",
+          "note": "In stores 2024-11-20"
+        },
+        {
+          "metronId": 132671,
+          "label": "Scarlet Witch (2024) #7",
+          "note": "In stores 2024-12-11"
+        },
+        {
+          "metronId": 133786,
+          "label": "Scarlet Witch (2024) #8",
+          "note": "In stores 2025-01-22"
+        },
+        {
+          "metronId": 134372,
+          "label": "Scarlet Witch (2024) #9",
+          "note": "In stores 2025-02-05"
+        },
+        {
+          "metronId": 137024,
+          "label": "Scarlet Witch (2024) #10",
+          "note": "In stores 2025-03-05"
         }
       ]
     },
