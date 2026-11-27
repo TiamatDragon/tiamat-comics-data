@@ -923,6 +923,29 @@
       "catergory": "Limited Series"
     },
     {
+      "id": "xmen-2023",
+      "title": "Immoral X-Men (2023)",
+      "category": "limited",
+      "summary": "From Metron. Rerun the script to add new issues.",
+      "entries": [
+        {
+          "metronId": 55019,
+          "label": "Immoral X-Men (2023) #1",
+          "note": "In stores 2023-02-22"
+        },
+        {
+          "metronId": 57315,
+          "label": "Immoral X-Men (2023) #2",
+          "note": "In stores 2023-03-15"
+        },
+        {
+          "metronId": 59627,
+          "label": "Immoral X-Men (2023) #3",
+          "note": "In stores 2023-04-05"
+        }
+      ]
+    },
+    {
       "id": "magneto-2024",
       "title": "Resurrection of Magneto (2024)",
       "category": "limited",
@@ -1069,29 +1092,6 @@
           "metronId": 170488,
           "label": "Storm: Earth's Mightiest Mutant (2026) #5",
           "note": "In stores 2026-06-03"
-        }
-      ]
-    },
-    {
-      "id": "xmen-2023",
-      "title": "Immoral X-Men (2023)",
-      "category": "limited",
-      "summary": "From Metron. Rerun the script to add new issues.",
-      "entries": [
-        {
-          "metronId": 55019,
-          "label": "Immoral X-Men (2023) #1",
-          "note": "In stores 2023-02-22"
-        },
-        {
-          "metronId": 57315,
-          "label": "Immoral X-Men (2023) #2",
-          "note": "In stores 2023-03-15"
-        },
-        {
-          "metronId": 59627,
-          "label": "Immoral X-Men (2023) #3",
-          "note": "In stores 2023-04-05"
         }
       ]
     },
