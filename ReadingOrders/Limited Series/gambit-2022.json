@@ -1,0 +1,33 @@
+{
+  "id": "Gambit-2022",
+  "title": "Gambit (2022)",
+  "category": "limited",
+  "summary": "From Metron. Rerun the script to add new issues.",
+  "entries": [
+    {
+      "metronId": 50236,
+      "label": "Gambit (2022) #1",
+      "note": "In stores 2022-07-27"
+    },
+    {
+      "metronId": 51390,
+      "label": "Gambit (2022) #2",
+      "note": "In stores 2022-08-31"
+    },
+    {
+      "metronId": 51674,
+      "label": "Gambit (2022) #3",
+      "note": "In stores 2022-09-28"
+    },
+    {
+      "metronId": 52408,
+      "label": "Gambit (2022) #4",
+      "note": "In stores 2022-10-12"
+    },
+    {
+      "metronId": 52937,
+      "label": "Gambit (2022) #5",
+      "note": "In stores 2022-11-16"
+    }
+  ]
+}
