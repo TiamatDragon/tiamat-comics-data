@@ -10,7 +10,9 @@ param(
     [int]    $YearBegan,
     [ValidateSet('ongoing', 'limited', 'oneShot')] [string] $Category
 )
-git -C (Split-Path $PSScriptRoot -Parent) pull --rebase --autostash --quiet
+if (-not $env:GITHUB_ACTIONS) {
+    git -C (Split-Path $PSScriptRoot -Parent) pull --rebase --autostash --quiet
+}
 
 # Login: GitHub secrets when running in the Action, otherwise ask
 if ($env:METRON_USERNAME -and $env:METRON_PASSWORD) {

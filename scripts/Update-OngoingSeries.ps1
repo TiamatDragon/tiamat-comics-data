@@ -16,7 +16,7 @@ $series = @(
     @{ SeriesName = 'Rogue'; SeriesId = 14433; OrderId = 'rogue-2026'; Title = 'Rogue (2026)' }
     @{ SeriesName = 'Cyclops'; SeriesId = 14958; OrderId = 'cyclops-2026'; Title = 'Cyclops (2026)' }
     @{ SeriesName = 'Storm'; SeriesId = 14849; OrderId = 'storm-2026'; Title = 'Storm: Earths Mighest Mutant (2026)' }
-    @{ SeriesName = 'Strange'; SeriesId = 13947; OrderId = 'strange-2026'; Title = 'Doctor Strange (2026)' }
+    @{ SeriesName = 'Strange'; SeriesId = 13947; OrderId = 'doctorstrange-2026'; Title = 'Doctor Strange (2026)' }
     @{ SeriesName = 'Fantastic Four'; SeriesId = 12316; OrderId = 'fantasticfour-2025'; Title = 'Fantastic Four (2025)' }
     @{ SeriesName = 'Miles Morales'; SeriesId = 16445; OrderId = 'milesmorales-2026'; Title = 'Miles Morales Spider-Man (2026)' }
     @{ SeriesName = 'Black Cat'; SeriesId = 12746; OrderId = 'blackcat-2025'; Title = 'Black Cat (2025)' }
